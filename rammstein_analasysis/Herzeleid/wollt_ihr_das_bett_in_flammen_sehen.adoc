@@ -81,9 +81,9 @@ Rammstein
 
 --------------------------------------------------------------------------------
     [Strophe 1]
-[#l1]
+[#L1]
 Wollt ihr das Bett in Flammen sehen?
-[#l2]
+[#L2]
 Wollt ihr in Haut und Haaren untergehen?
 [#l3]
 Ihr wollt doch auch den Dolch ins Laken stecken
