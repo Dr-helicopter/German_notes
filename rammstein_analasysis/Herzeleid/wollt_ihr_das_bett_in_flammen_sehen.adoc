@@ -261,7 +261,6 @@ küssen : to kiss
 === : you think that innocance might kiss you
 
 == <<l7, Ihr glaubt, zu töten wäre schwer>>
-[%hardbreaks]
 
 |====
 |glauben 	| to believe, to think
@@ -274,6 +273,8 @@ küssen : to kiss
 |Sie       	| glauben
 |====
 
+[%hardbreaks]
+
 zu töten = to kill
 töten : to kill
 
@@ -285,8 +286,8 @@ schwer = difficult, hard
 'zu + infinitive' -> to do something
 'zu töten' -> to kill
 
-general meaning:
-you think: killing would be difficult
+
+=== : you think: killing would be difficult
 
 
 == Doch wo kommen all die Toten her?
@@ -302,8 +303,7 @@ die Tote    = dead woman
 die+ Toten  = the dead 
 
 
-general meaning:
-but/afterall where do all the dead come from?
+=== : but/afterall where do all the dead come from?
 
 
 
@@ -313,6 +313,4 @@ but/afterall where do all the dead come from?
 die Shlacht = battle
 der krieg   = war
 
-general meaning: 
-sex is a battle
-love is war
+=== : sex is a battle, love is war
