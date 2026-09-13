@@ -79,6 +79,7 @@ Rammstein
 == actual lyrics:
 --------------------------------------------------------------------------------
     [Strophe 1]
+[#l1]
 Wollt ihr das Bett in Flammen sehen?
 Wollt ihr in Haut und Haaren untergehen?
 Ihr wollt doch auch den Dolch ins Laken stecken
@@ -142,6 +143,7 @@ Rammstein!
 
 = analysis:
 
+= <<L1, Wollt ihr in Haut und Haaren untergehen?>>
 = Wollt ihr in Haut und Haaren untergehen?
 
 die Haut    = skin
