@@ -1,3 +1,3 @@
 = list of Rammstein Albums:
 
-- xref:Herzeleid/Herzeleid.adoc[Herzeleid]
+=== xref:Herzeleid/Herzeleid.adoc[Herzeleid]
