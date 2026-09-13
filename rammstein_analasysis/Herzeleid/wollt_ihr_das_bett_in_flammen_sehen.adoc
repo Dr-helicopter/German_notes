@@ -1,10 +1,10 @@
-= Title
 
-wollt ihr | das bett in flamen sehen
-    ^               ^
-    |               |
-do you want         |
-seeing the bed in flames
+== Title
+= wollt ihr das bett in flamen sehen
+                  
+wollt ihr: do you want
+
+das bett in flamen sehen: seeing the bed in flames
 
 == meaning
 do you want to see the bed in flames
