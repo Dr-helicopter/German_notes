@@ -161,10 +161,10 @@ brothers and sisters.
 
 [can I just write down that i love this scene?. I really love this scene.]
 
-== Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle im 
-Licht dieser Stadt... 
---------------------------------------------------------------------------------
+:haed4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
+im Licht dieser Stadt... 
 
+== {head4}
 
 herrliche --adj--> shiny, glrious
 
@@ -188,9 +188,13 @@ meaning: and where are the people, father whose hands built your city?
 
 == Wo sie hingehören
 
-gehören : to belong + {
-    hin : to belong (toward somewhere spicific)
-}
+[grid=none]
+|===
+|gehören 	| to belong 
+
+|+ 			| 
+|hin 		| to belong (toward somewhere spicific)
+|====
 
 meaning: where they blong
 
@@ -213,9 +217,13 @@ die in : those in
 einmal : once, her it means 'one day' or 'someday'
 
 
-stehen : to stand + {
-    auf : to stand up, to rise up
-}
+[grid=none]
+|===
+|stehen | to stand 
+
+|+ 
+|auf	| to stand up, to rise up
+|===
 
 
 gegen : against, in oposition to
@@ -230,10 +238,14 @@ and when those in the depth one day rise up against you?
 erste = first 
 erste --adj--> head, lead
 
-der werkmeister = workmaster {
-    das werk = factory 
-    der meister = master
-}
+
+|===
+|der werkmeister 	| workmaster
+
+|das werk 			| factory 
+|der meister 		| master
+|===
+
 
 Grot : here its the name 
 
@@ -272,7 +284,9 @@ means:
 in the pockets of 2 of the people who had an accident in the machine today.
 
 
-== Wie kommet es, josaphte, dass mir diese Pläne von Grot gebracht werden, statt von Ihnen?
+:head5: Wie kommet es, josaphte, dass mir diese Pläne von Grot gebracht werden,\
+statt von Ihnen?
+== {head5}
 
 dass mir ... gebracht werden : being brought to me
 
@@ -298,9 +312,9 @@ the G-bank will pay you your remanning salary (get the fuck out!)
 
 [and bro doesnt even try to defend himself! DAMN! ]
 
-== Vater weisst Du, was das heisst, so von Dir entlassen zu werden?
+:haed6: Vater weisst Du, was das heisst, so von Dir entlassen zu werden? \
 Das heist: hinunter! - Vater hinunter! In die Tiefe!
---------------------------------------------------------------------------------
+== {haed6}
 
 weisst is weißt in moder german and conjugated wissen meanning to know
 was das heisst : what that means... 
@@ -337,9 +351,9 @@ do you want to come to me josaphte?
 
 
 
-== Gehen Sie heim, Josaphate, und warten Sie auf mich...
+:head7: Gehen Sie heim, Josaphate, und warten Sie auf mich...\
 Ich habe heute nacht noch einen weiten Weg zu gehen...
---------------------------------------------------------------------------------
+== {head7}
 
 das heim = home
 
@@ -363,7 +377,8 @@ m: in the depth to my brothers...
 
 
 
-== von heute an wünsche ich, über jeden Schritt meines Sohnes genau unterrichtet zu werden ...
+:head8: von heute an wünsche ich, über jeden Schritt meines Sohnes genau unterrichtet zu werden ...
+== {head8}
 
 von heute an : from today onward
 
@@ -427,7 +442,9 @@ wait for me (both of you)
 
 
 
-== Mitten in Metropolis lag ein seltsames Haus, das die Iahrhundrte vergessen hatten
+:head9: Mitten in Metropolis lag ein seltsames Haus, das die Iahrhundrte \
+vergessen hatten
+== {head9}
 
 
 Mitten --adj--> middle
@@ -459,7 +476,10 @@ in the middle of metropolis lay a strange house that the centuries had forgotten
 
 [oscar level avting befor the oscars were even a thing!]
 
-== Ich habe ein einziges Mal im Leben etwas vergessen: Dass Hel ein Weib war und Du ein mann
+:head10:
+Ich habe ein einziges Mal im Leben etwas vergessen: Dass Hel ein Weib war und \
+Du ein mann
+== {head10}
 : i have forgotten somethong in my life only once: that hel was a woman and you were a man
 
 
@@ -474,7 +494,9 @@ gestorben --adj--> dead
 == Mir ist sie nicht gestorben Joh Fredersen, mir lebt sie !!!
 : she is not dead to me joh fredersen. to me SHE LIVES!!!!
 
-== Glaubst Du, der Verlust einer Hand sei zu hoher Preis für die Wieder-Erschaffung der Hel?
+:head11: Glaubst Du, der Verlust einer Hand sei zu hoher Preis für \
+die Wieder-Erschaffung der Hel?
+== {head11}
 
 Glaubst : to think 
 der Verlust = loss
@@ -490,19 +512,20 @@ die WiederErschaffung = recreation
 
 [HOW THE FUCK DID THEY MAKE THIS?]
 
-== Nun, Joh Fredersen ?! Lohnt es sich nicht, eine Hand zu verliren, um den 
-Menschen der Zukunft den M a s c h i n e n - M e n s c h e n 
-geschaffen zu habben ?! 
---------------------------------------------------------------------------------
+:head12: Nun, Joh Fredersen ?! Lohnt es sich nicht, eine Hand zu verliren, um \
+den Menschen der Zukunft den M a s c h i n e n - M e n s c h e n geschaffen zu \
+habben ?! 
+== {head12}
+
 : Well, Joh Fredersen? 
 Isn't it worth losing a hand? 
 in order to have created the Machine-Man for the people of the future?!
 
 
 
-== Noch 24 Stunden Arbeit und kein Mensch, Joh Frederen, wird den Maschinen -
-Menschen von eiem Erdgeborenen unterscheiden können !
---------------------------------------------------------------------------------
+:head13: Noch 24 Stunden Arbeit und kein Mensch, Joh Frederen, wird den \
+Maschinen - Menschen von eiem Erdgeborenen unterscheiden können !
+== {head13}
 
 der Erdgebornen : old german
 der Erdgeborenen = earthborn, born on earth {
@@ -571,14 +594,17 @@ niemals : ever, never
 
 :father father , does this ten hour ever end?
 
-== es ist ein plan der zweitausendjährigen katakomben tief under den 
+:head14: es ist ein plan der zweitausendjährigen katakomben tief under den \
 Tiefbahnen Deiner Metropolis
---------------------------------------------------------------------------------
+== {head14}
+
 : it is a map of the 2000 years old catecombs running deep under the underground
 railways of your metropolis
 
 
-== Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben zu tun haben
+{head15} Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben zu\ 
+ tun haben
+== {head15}
 
 heraus : out 
 bekommen : to recive
@@ -611,9 +637,9 @@ die+ Sterne = stars
 
 meanning: COME! LETS US BUILD A TWOER WHOS TOP REACHES THE STARS
 
-== Und an die Speitze des Turmes wollen wir schriben: Gross is die Welt und ihr
-Schöpfer! Und gross ist der Mensch!
---------------------------------------------------------------------------------
+:head16: Und an die Speitze des Turmes wollen wir schriben: Gross is die Welt
+und ihr Schöpfer! Und gross ist der Mensch!
+== {head16}
 
 die Welt = world
 der Schöpfer = creator, originator
@@ -623,9 +649,9 @@ and on top of it we shall write:
 "GREATE IS THE WORLD AND ITS CREATOR AND GREAT IS THE MAN(or parhaps the mankind)"
 
 
-== Aber die den Trum Babel erdachten, konnten den Trum Babel nicht bauen 
+:head17: Aber die den Trum Babel erdachten, konnten den Trum Babel nicht bauen \
 Allzu gross war das Werk Da warben sie fremde Hände um Lohn...
---------------------------------------------------------------------------------
+== {head17}
 
 erdenken : to devise, to come up with
 allzu : all to, way too, overly
@@ -637,9 +663,10 @@ der Lohn = wage
 it was to great of a work, so they hired foriegn hands on wages
 
 
-== Aber die Hände , die den Trum Babel erbuten, wussten nichts von dem 
+:head18: Aber die Hände , die den Trum Babel erbuten, wussten nichts von dem \
 Traum, den das HIRN das ihn erdacht hatte träumte.
---------------------------------------------------------------------------------
+== {head18}
+
 der Traum = dream
 
 : but the hands, those who build he tower knew not of the dream, 
@@ -704,9 +731,10 @@ Wartet auf, aufwartet : to wait (for someone)
 
 [evil ass CEO right here]
 
-== Ich wil Zwietracht säen zwischen ihnen und ihr!
+:head19: Ich wil Zwietracht säen zwischen ihnen und ihr! \
 Ich will ihren Glauben an diese Frau zerstören
---------------------------------------------------------------------------------
+== {head19}
+
 zerstören : to destroy
 
 i want chaos btwen them, i want thair faith in this woman destroied 
