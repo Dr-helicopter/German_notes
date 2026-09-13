@@ -235,20 +235,20 @@ das kissen = pillow
 
 
 
-== Ihr meint euch darf die Unschuld küssen
+== <<l6, Ihr meint euch darf die Unschuld küssen>>
 [%hardbreaks]
 
 [%header]
+[options="header"]
 |===
-|meinen | to mean, to think to belive
+|meinen 	| to mean, to think to belive
 
-|ich         | meine
-|du          | meinst
-|er/sie/es   | meint
-|wir         | meinen
-|ihr         | meint
-
-|Sie         | meinen
+|ich        | meine
+|du         | meinst
+|er/sie/es  | meint
+|wir        | meinen
+|ihr        | meint
+|Sie        | meinen
 |===
 
 
@@ -258,22 +258,21 @@ darf : may
 die Unschuld = innocence, verginity
 küssen : to kiss 
 
-general meaning:
-you think: that innocance might kiss you
+=== : you think that innocance might kiss you
 
-
-== Ihr glaubt, zu töten wäre schwer
+== <<l7, Ihr glaubt, zu töten wäre schwer>>
 [%hardbreaks]
 
-{   glauben : to believe, to think
+|====
+|glauben 	| to believe, to think
 
-    ich         | glaube
-    du          | glaubst
-    er/sie/es   | glaubt
-    wir         | glauben
-    ihr         | glaubt
-    Sie         | glauben
-}
+|ich       	| glaube
+|du        	| glaubst
+|er/sie/es 	| glaubt
+|wir       	| glauben
+|ihr       	| glaubt
+|Sie       	| glauben
+|====
 
 zu töten = to kill
 töten : to kill
@@ -308,7 +307,7 @@ but/afterall where do all the dead come from?
 
 
 
-== Sex ist eine Schlacht, Liebe ist Krieg
+== <<l8, Sex ist eine Schlacht, Liebe ist Krieg>>
 [%hardbreaks]
 
 die Shlacht = battle
