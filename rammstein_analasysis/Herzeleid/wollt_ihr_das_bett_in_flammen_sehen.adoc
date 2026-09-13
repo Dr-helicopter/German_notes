@@ -151,8 +151,7 @@ Rammstein!
 
 = analysis:
 
-= <<L1, Wollt ihr in Haut und Haaren untergehen?>>
-= Wollt ihr in Haut und Haaren untergehen?
+== <<L1, Wollt ihr in Haut und Haaren untergehen?>>
 
 die Haut    = skin		+
 das Haar    = hair		+
@@ -175,7 +174,7 @@ do you want to be compeletely destroyed?
 
 
 
-== Ihr wollt doch auch den Dolch ins Laken stecken
+== <<L2, Ihr wollt doch auch den Dolch ins Laken stecken>>
 
 stecken = to put/stick/insert
 
@@ -187,7 +186,7 @@ you also wnat to stck the dagger into the sheets
 
 
 
-== Ihr wollt doch auch das Blut vom Degen lecken
+== <<L3, Ihr wollt doch auch das Blut vom Degen lecken>>
 
 der Degen = sword
 vom = von dem = 'from the'
