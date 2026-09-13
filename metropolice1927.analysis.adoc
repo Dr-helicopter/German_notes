@@ -1,3 +1,5 @@
+:hardbreaks:
+
 die regie = direction
 
 = sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !!!!!!!!!!
@@ -44,10 +46,12 @@ Deep beneath the earth lay the city of the workers
 
 
 
-===  So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr türmte sich 
-der Häuserblock, der "klub der Söhne" hiess, mitt seinen Hörsälen und 
-Bibliotheken, seinen theatern und Stadions.
---------------------------------------------------------------------------------
+:head1: So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr \
+türmte sich der Häuserblock, der "klub der Söhne" hiess, mitt seinen Hörsälen \
+und Bibliotheken, seinen theatern und Stadions.
+
+=== {head1}
+
 
 so ... so ...:
 just as ..., so ...
