@@ -1,4 +1,4 @@
-
+:hardbreaks:
 = Title
 = wollt ihr das bett in flamen sehen
                   
@@ -150,7 +150,7 @@ Rammstein!
 = analysis:
 
 == Wollt ihr in Haut und Haaren untergehen?
-[%hardbreaks]
+
 die Haut    = skin
 das Haar    = hair
 die+ Haare  = hairs
@@ -160,7 +160,7 @@ die+ Haare  = hairs
 
 it has a general meaning of: compeletly, entiraly
 
-[%hardbreaks]
+
 untergehen 
 gehen : going
 untergehen : going down
@@ -173,11 +173,11 @@ es geht unter -> it gets destroyed
 
 
 == Ihr wollt doch auch den Dolch ins Laken stecken
-[%hardbreaks]
+
 
 stecken = to put/stick/insert
 
-[%hardbreaks]
+
 der Dolck = dagger
 das Laken = bed sheet
 
@@ -187,7 +187,7 @@ das Laken = bed sheet
 
 
 == Ihr wollt doch auch das Blut vom Degen lecken
-[%hardbreaks]
+
 
 der Degen = sword
 vom = von dem = 'from the'
@@ -202,7 +202,7 @@ lecken : to lick
 
 
 == Rammstein
-[%hardbreaks]
+
 
 
 
@@ -221,7 +221,7 @@ lecken : to lick
 
 == Ihr seht die Kreuze auf dem Kissen
 
-[%hardbreaks]
+
 das Kreuz   = cross
 die+ Kreuze = crosses
 
@@ -234,7 +234,7 @@ das kissen = pillow
 
 
 == Ihr meint euch darf die Unschuld küssen
-[%hardbreaks]
+
 
 [%header]
 [options="header"]
@@ -250,11 +250,11 @@ das kissen = pillow
 |===
 
 
-[%hardbreaks]
+
 euch : you
 darf : may
 
-[%hardbreaks]
+
 die Unschuld = innocence, verginity
 küssen : to kiss 
 
@@ -273,7 +273,7 @@ küssen : to kiss
 |Sie       	| glauben
 |====
 
-[%hardbreaks]
+
 
 zu töten = to kill
 töten : to kill
@@ -283,7 +283,7 @@ sein : to be
 
 schwer = difficult, hard
 
-[%hardbreaks]
+
 'zu + infinitive' -> to do something
 'zu töten' -> to kill
 
@@ -298,7 +298,7 @@ wo : where
 herkommen : comming from
 
 
-[%hardbreaks]
+
 tot = (adj) dead
 der Tote    = dead man
 die Tote    = dead woman
@@ -311,7 +311,7 @@ die+ Toten  = the dead
 
 == Sex ist eine Schlacht, Liebe ist Krieg
 
-[%hardbreaks]
+
 die Shlacht = battle
 der krieg   = war
 
