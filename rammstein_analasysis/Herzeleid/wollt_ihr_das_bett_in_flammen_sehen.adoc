@@ -81,10 +81,13 @@ Rammstein
 
 --------------------------------------------------------------------------------
     [Strophe 1]
-Wollt ihr das Bett in Flammen sehen? <1>
-Wollt ihr in Haut und Haaren untergehen? <2>
+[[L1]] Wollt ihr das Bett in Flammen sehen?
+[[l2]] Wollt ihr in Haut und Haaren untergehen?
 
+
+[#l3]
 Ihr wollt doch auch den Dolch ins Laken stecken
+[#l3]
 Ihr wollt doch auch das Blut vom Degen lecken
 
     [Refrain]
@@ -150,7 +153,7 @@ Rammstein!
 
 = analysis:
 
-== <1> Wollt ihr in Haut und Haaren untergehen?
+== <<l1, Wollt ihr in Haut und Haaren untergehen?>>
 [%hardbreaks]
 die Haut    = skin
 das Haar    = hair
@@ -173,7 +176,7 @@ es geht unter -> it gets destroyed
 === : do you want to be compeletely destroyed?
 
 
-== <2> Ihr wollt doch auch den Dolch ins Laken stecken
+== <<l2, Ihr wollt doch auch den Dolch ins Laken stecken>>
 [%hardbreaks]
 
 stecken = to put/stick/insert
