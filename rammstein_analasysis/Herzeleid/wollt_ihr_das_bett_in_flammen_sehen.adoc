@@ -203,11 +203,25 @@ you also want to lick the blood from the sword
 
 == Rammstein! Rammstein!
 [%hardbreaks]
-just a compaound word
-der Rammstein = colliding stone, hitting stone {
-    Rammen : to ramm, to collide with
+
+
+
+[options="just a compaound word"]
+|===
+|der Rammstein
+|colliding stone, hitting stone 
+
+
+|Rammen
+|to ramm, to collide with
+
+|der Stein
+|stone
+|===
+
+
     der Stein = stone
-}
+
 
 
 
