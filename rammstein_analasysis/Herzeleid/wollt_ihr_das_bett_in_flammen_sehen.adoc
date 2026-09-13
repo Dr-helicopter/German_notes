@@ -173,8 +173,8 @@ meaning:
 do you want to be compeletely destroyed?
 
 
-
 == <<L2, Ihr wollt doch auch den Dolch ins Laken stecken>>
+[%hardbreaks]
 
 stecken = to put/stick/insert
 
@@ -187,6 +187,7 @@ you also wnat to stck the dagger into the sheets
 
 
 == <<L3, Ihr wollt doch auch das Blut vom Degen lecken>>
+[%hardbreaks]
 
 der Degen = sword
 vom = von dem = 'from the'
@@ -201,6 +202,7 @@ you also want to lick the blood from the sword
 
 
 == Rammstein! Rammstein!
+[%hardbreaks]
 just a compaound word
 der Rammstein = colliding stone, hitting stone {
     Rammen : to ramm, to collide with
@@ -210,6 +212,7 @@ der Rammstein = colliding stone, hitting stone {
 
 
 == Ihr seht die Kreuze auf dem Kissen
+[%hardbreaks]
 
 das Kreuz   = cross
 die+ Kreuze = crosses
@@ -224,6 +227,7 @@ you see the crossese on the pillow
 
 
 == Ihr meint euch darf die Unschuld küssen
+[%hardbreaks]
 
 {   meinen : to mean, to think to belive
 
@@ -247,6 +251,7 @@ you think: that innocance might kiss you
 
 
 == Ihr glaubt, zu töten wäre schwer
+[%hardbreaks]
 
 {   glauben : to believe, to think
 
@@ -274,6 +279,7 @@ you think: killing would be difficult
 
 
 == Doch wo kommen all die Toten her?
+[%hardbreaks]
 
 wo : where
 
@@ -291,8 +297,7 @@ but/afterall where do all the dead come from?
 
 
 == Sex ist eine Schlacht, Liebe ist Krieg
-
-------------------------
+[%hardbreaks]
 
 die Shlacht = battle
 der krieg   = war
