@@ -221,7 +221,7 @@ einmal : once, her it means 'one day' or 'someday'
 |===
 |stehen | to stand 
 
-|+ 
+|+ 		|
 |auf	| to stand up, to rise up
 |===
 
