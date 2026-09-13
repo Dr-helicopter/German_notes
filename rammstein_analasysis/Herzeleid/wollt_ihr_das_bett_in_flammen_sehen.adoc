@@ -1,5 +1,5 @@
 
-== Title
+= Title
 = wollt ihr das bett in flamen sehen
                   
 ----
@@ -13,11 +13,8 @@ das bett in flamen sehen: seeing the bed in flames
 
 = lyrics
 
-
-
-
-
 == first take:
+--------------------------------------------------------------------------------
 wollt ihr das bett in flammen sehen
 wollt ihr halt und tarhen und tergehn
 ihr wollt och achteen !!!!!!!!!!!!!!!!!!!!!!!!
@@ -77,10 +74,10 @@ Rammstein
 
 Rammstein
 Rammstein
-
------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 == actual lyrics:
+--------------------------------------------------------------------------------
     [Strophe 1]
 Wollt ihr das Bett in Flammen sehen?
 Wollt ihr in Haut und Haaren untergehen?
@@ -141,7 +138,7 @@ Rammstein!
 Rammstein!
 Rammstein!
 
------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 = analysis:
 
