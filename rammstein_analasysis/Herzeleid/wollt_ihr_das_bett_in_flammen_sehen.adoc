@@ -164,6 +164,7 @@ die+ Haare  = hairs
 
 it has a general meaning of: compeletly, entiraly
 
+[%hardbreaks]
 untergehen 
 gehen : going
 untergehen : going down
@@ -180,6 +181,7 @@ es geht unter -> it gets destroyed
 
 stecken = to put/stick/insert
 
+[%hardbreaks]
 der Dolck = dagger
 das Laken = bed sheet
 
@@ -222,8 +224,8 @@ lecken : to lick
 
 
 == <<l5, Ihr seht die Kreuze auf dem Kissen>>
-[%hardbreaks]
 
+[%hardbreaks]
 das Kreuz   = cross
 die+ Kreuze = crosses
 
@@ -252,9 +254,11 @@ das kissen = pillow
 |===
 
 
+[%hardbreaks]
 euch : you
 darf : may
 
+[%hardbreaks]
 die Unschuld = innocence, verginity
 küssen : to kiss 
 
@@ -283,6 +287,7 @@ sein : to be
 
 schwer = difficult, hard
 
+[%hardbreaks]
 'zu + infinitive' -> to do something
 'zu töten' -> to kill
 
@@ -291,12 +296,13 @@ schwer = difficult, hard
 
 
 == Doch wo kommen all die Toten her?
-[%hardbreaks]
 
 wo : where
 
 herkommen : comming from
 
+
+[%hardbreaks]
 tot = (adj) dead
 der Tote    = dead man
 die Tote    = dead woman
@@ -308,8 +314,8 @@ die+ Toten  = the dead
 
 
 == <<l8, Sex ist eine Schlacht, Liebe ist Krieg>>
-[%hardbreaks]
 
+[%hardbreaks]
 die Shlacht = battle
 der krieg   = war
 
