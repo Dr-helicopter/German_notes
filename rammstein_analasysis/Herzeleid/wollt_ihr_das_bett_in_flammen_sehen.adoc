@@ -208,6 +208,8 @@ you also want to lick the blood from the sword
 
 [options="just a compaound word"]
 |===
+|E |D
+
 |der Rammstein
 |colliding stone, hitting stone 
 
