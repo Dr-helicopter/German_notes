@@ -152,10 +152,10 @@ Rammstein!
 = analysis:
 
 == <<L1, Wollt ihr in Haut und Haaren untergehen?>>
-
-die Haut    = skin		+
-das Haar    = hair		+
-die+ Haare  = hairs		+
+[%test]
+die Haut    = skin
+das Haar    = hair
+die+ Haare  = hairs
 
 
 'in Haut und Haaren' -> in skin and hair
