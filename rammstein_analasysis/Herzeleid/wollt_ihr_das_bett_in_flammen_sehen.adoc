@@ -81,28 +81,24 @@ Rammstein
 
 --------------------------------------------------------------------------------
     [Strophe 1]
-[[L1]] Wollt ihr das Bett in Flammen sehen?
-[[l2]] Wollt ihr in Haut und Haaren untergehen?
+Wollt ihr das Bett in Flammen sehen?
+Wollt ihr in Haut und Haaren untergehen?
 
 
-[#l3]
 Ihr wollt doch auch den Dolch ins Laken stecken
-[#l3]
 Ihr wollt doch auch das Blut vom Degen lecken
 
     [Refrain]
-[#l4]
 Rammstein!
 Rammstein!
 
+
     [Strophe 2]
-[#l6]
+
 Ihr seht die Kreuze auf dem Kissen
-[#l7]
 Ihr meint euch darf die Unschuld küssen
-[#l8]
+
 Ihr glaubt, zu töten wäre schwer
-[#l9]
 Doch wo kommen all die Toten her?
 
     [Refrain]
@@ -153,7 +149,7 @@ Rammstein!
 
 = analysis:
 
-== <<l1, Wollt ihr in Haut und Haaren untergehen?>>
+== Wollt ihr in Haut und Haaren untergehen?
 [%hardbreaks]
 die Haut    = skin
 das Haar    = hair
@@ -176,7 +172,7 @@ es geht unter -> it gets destroyed
 === : do you want to be compeletely destroyed?
 
 
-== <<l2, Ihr wollt doch auch den Dolch ins Laken stecken>>
+== Ihr wollt doch auch den Dolch ins Laken stecken
 [%hardbreaks]
 
 stecken = to put/stick/insert
@@ -190,7 +186,7 @@ das Laken = bed sheet
 
 
 
-== <<l3, Ihr wollt doch auch das Blut vom Degen lecken>>
+== Ihr wollt doch auch das Blut vom Degen lecken
 [%hardbreaks]
 
 der Degen = sword
@@ -205,7 +201,7 @@ lecken : to lick
 
 
 
-== <<l4,Rammstein! Rammstein!>>
+== Rammstein
 [%hardbreaks]
 
 
@@ -223,7 +219,7 @@ lecken : to lick
 
 
 
-== <<l5, Ihr seht die Kreuze auf dem Kissen>>
+== Ihr seht die Kreuze auf dem Kissen
 
 [%hardbreaks]
 das Kreuz   = cross
@@ -237,7 +233,7 @@ das kissen = pillow
 
 
 
-== <<l6, Ihr meint euch darf die Unschuld küssen>>
+== Ihr meint euch darf die Unschuld küssen
 [%hardbreaks]
 
 [%header]
@@ -264,7 +260,7 @@ küssen : to kiss
 
 === : you think that innocance might kiss you
 
-== <<l7, Ihr glaubt, zu töten wäre schwer>>
+== Ihr glaubt, zu töten wäre schwer
 
 |====
 |glauben 	| to believe, to think
@@ -313,7 +309,7 @@ die+ Toten  = the dead
 
 
 
-== <<l8, Sex ist eine Schlacht, Liebe ist Krieg>>
+== Sex ist eine Schlacht, Liebe ist Krieg
 
 [%hardbreaks]
 die Shlacht = battle
