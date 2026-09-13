@@ -1,1 +1,3 @@
-= another test in here ????
+= list of Rammstein Albums:
+
+- xref:./Herzeleid/Herzeleid.adoc
