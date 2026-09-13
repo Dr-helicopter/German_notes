@@ -1,1 +1,5 @@
 === a test of adoc is here 
+
+
+* xref:./rammstein_analasysis/albums.adoc[analysis of rammstrin songs]
+
