@@ -1,4 +1,4 @@
-### Title
+# Title
 
 wollt ihr | das bett in flamen sehen
     ^               ^
@@ -9,7 +9,7 @@ seeing the bed in flames
 ## meaning
 do you want to see the bed in flames
 
-### lyrics
+# lyrics
 
 ## first take:
 wollt ihr das bett in flammen sehen
@@ -71,7 +71,8 @@ Rammstein
 
 Rammstein
 Rammstein
-## -----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
 
 ## actual lyrics:
     [Strophe 1]
@@ -134,9 +135,9 @@ Rammstein!
 Rammstein!
 Rammstein!
 
-## -----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
-### analysis:
+# analysis:
 
 # Wollt ihr in Haut und Haaren untergehen?
 
@@ -159,7 +160,7 @@ do you want to be compeletely destroyed?
 
 
 
-# Ihr wollt doch auch den Dolch ins Laken stecken
+## Ihr wollt doch auch den Dolch ins Laken stecken
 
 stecken = to put/stick/insert
 
@@ -171,7 +172,7 @@ you also wnat to stck the dagger into the sheets
 
 
 
-# Ihr wollt doch auch das Blut vom Degen lecken
+## Ihr wollt doch auch das Blut vom Degen lecken
 
 der Degen = sword
 vom = von dem = 'from the'
@@ -185,7 +186,7 @@ you also want to lick the blood from the sword
 
 
 
-# Rammstein! Rammstein!
+## Rammstein! Rammstein!
 just a compaound word
 der Rammstein = colliding stone, hitting stone {
     Rammen : to ramm, to collide with
@@ -194,7 +195,7 @@ der Rammstein = colliding stone, hitting stone {
 
 
 
-# Ihr seht die Kreuze auf dem Kissen
+## Ihr seht die Kreuze auf dem Kissen
 
 das Kreuz   = cross
 die+ Kreuze = crosses
@@ -208,7 +209,7 @@ you see the crossese on the pillow
 
 
 
-# Ihr meint euch darf die Unschuld küssen
+## Ihr meint euch darf die Unschuld küssen
 
 {   meinen : to mean, to think to belive
 
@@ -231,7 +232,7 @@ general meaning:
 you think: that innocance might kiss you
 
 
-# Ihr glaubt, zu töten wäre schwer
+## Ihr glaubt, zu töten wäre schwer
 
 {   glauben : to believe, to think
 
@@ -258,7 +259,7 @@ general meaning:
 you think: killing would be difficult
 
 
-# Doch wo kommen all die Toten her?
+## Doch wo kommen all die Toten her?
 
 wo : where
 
@@ -275,8 +276,8 @@ but/afterall where do all the dead come from?
 
 
 
-# Sex ist eine Schlacht
-Liebe ist Krieg
+## Sex ist eine Schlacht, Liebe ist Krieg
+
 ------------------------
 
 die Shlacht = battle
