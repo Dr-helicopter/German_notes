@@ -55,10 +55,9 @@ so it becomes:
 === :Deep beneath the earth lay the city of the workers
 
 
-:head1: So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr \
+== So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr \
 türmte sich der Häuserblock, der "klub der Söhne" hiess, mitt seinen Hörsälen \
 und Bibliotheken, seinen theatern und Stadions.
-== {head1}
 
 
 so ... so ...:
@@ -107,7 +106,7 @@ Ihnen   : you in dative
 
 die+ Einzelheiten = elaboration
 
-== Was hattest du in den Maschinensälen zu suchen, freder?
+== Was hattest du in den Maschinensälen zu suchen, Freder?
 was : what
 hattest : had 
 
@@ -264,7 +263,7 @@ verdammten --adj--> fucking
 die+ Pläne = plans, maps
 
 
-=== :there are two more of those fucking maps mr.fredersen
+=== :there are two more of those fucking maps mr.Fredersen
 
 
 == in den Taschen von zweien, die heut an der M-Machine verunglückt sind ...
@@ -337,9 +336,9 @@ go down to the depth
 == Wissen Sie, was das heisst, von Joh Fredersen so entlassen zu werden?
 
 here Sie is obvoiusly talking in a formal and respectfull way 
-(freder is some sort of a prince afterall).
+(Freder is some sort of a prince afterall).
 
-=== :do you know what it means to be fired by john fredderen?
+=== :do you know what it means to be fired by Joh Fredersen?
 
 
 == Wollen sie zu mir kommen Josaphet?
@@ -485,7 +484,7 @@ gestorben --adj--> dead
 
 
 == Mir ist sie nicht gestorben Joh Fredersen, mir lebt sie !!!
-=== :she is not dead to me joh fredersen. to me SHE LIVES!!!!
+=== :she is not dead to me Joh Fredersen. to me SHE LIVES!!!!
 
 
 :head11: Glaubst Du, der Verlust einer Hand sei zu hoher Preis für \
@@ -521,7 +520,7 @@ created the Machine-Man for the people of the future?!
 === :{mean10}
 
 
-:head13: Noch 24 Stunden Arbeit und kein Mensch, Joh Frederen, wird den \
+:head13: Noch 24 Stunden Arbeit und kein Mensch, Joh Fredersen, wird den \
 Maschinen - Menschen von eiem Erdgeborenen unterscheiden können !
 == {head13}
 
@@ -551,7 +550,7 @@ ____
 mainiac!
 ____
 
-== Und was führt Dich zu mir Joh Frederen?
+== Und was führt Dich zu mir Joh Fredersen?
 
 führen : to lead, to guid
 === :and brings you here to me Joh Fredersen?
@@ -710,10 +709,12 @@ der Fluch = curse
 
 
 == Gleiche Sprache sprechend. verstanden die Menschen sich nicht...
+
 === :tho speaking the same language, the people did not understand each other.
 
 
 == Einen Mittler brauchen HITN und HÄNDE
+
 === :a mediator btween the brain and the hands is needed
 
 
@@ -723,6 +724,8 @@ yeah we got the messege the first time lady
 ____
 
 = story time is over :D
+
+
 == UND wo ist unser Mittler, Maria ?
 unser : our
 
@@ -736,10 +739,12 @@ Wartet auf, aufwartet : to wait (for someone)
 
 
 == Wir werden warten Maria...! Aber nicht lange mehr !
+
 === :we will wait maria! but not for long
 
 
 == Mittler Du, bist Du endlich gekommen...
+
 === :oh mediator, have you finaly came?
 
 
@@ -749,6 +754,7 @@ Wartet auf, aufwartet : to wait (for someone)
 
 
 == Rotwang gib dem Maschinen-Menscen das Gesicht dieses Weibes
+
 === :Rotwang givethe machine man, this woman's face
 
 
@@ -763,3 +769,112 @@ Ich will ihren Glauben an diese Frau zerstören
 zerstören : to destroy
 
 === :i want chaos btwen them, i want thair faith in this woman destroied 
+
+
+:head21: Lass mich nun allein, Joh Fredersen... Du wirst den Rückweg ohne mich \
+finden...
+== {head21}
+
+nun : now
+
+=== :new leave me alone Joh Fredersen, you can find your way back without me ...
+
+
+:head22: Du Narr! nun sollst Du auch das Letzte verlieren, das Du von Hel \
+noch hattest... D e i n e n  S o h n ...
+== {head22}
+
+der Narr = fool
+das Letzte = the last
+
+:mean16: you fool! now you shall lose the last thing you have left from Hel, \
+your son!
+=== :{mean16}
+
+
+== Auf morgen, im Dom!
+
+=== :in the morning, in the church!
+
+
+== Ende des Auftakts
+
+=== :end of the prolog
+
+____
+PROLOG ?!
+bro that was an entire hour !
+____
+
+
+= **PART 2 I GUESS**
+
+== Zweischenspiel
+
+|===
+| das Zwischenspiel | middle act 
+
+| zwischen 			| between
+| das speiel 		| play
+|===
+
+
+:head23: Auf der kanzel erblickt Freder einen Mönch, der predigt: "Wahrlich, \
+ich sage Euch: Nahe sind die Tage, von denen die Apokalypse spricht!"
+== {head23}
+
+der keanzel = pulpit (its the raised platform of the curch where a prist stands)
+erblicken 	: to behold
+predigen 	: to preach
+
+Wahrlich : truly, verly
+Nahe --adj--> near
+
+:mean17: on the pulpit Freder sees a monk, he priches: "verly, i tell you: \
+near are the days, of which the apocolypse speaks of!"
+=== :{mean17}
+
+
+== Die Hand des Mönchs weist auf die Bibel, in der geschreiben steht:
+
+weisen : to point
+
+=== :the monk's hand points to the Bibel, where it was written:
+
+
+____
+wow thats a alot of info 
+im just gonna translate the whore of babylon part
+____
+
+== ... Die grosse Babylon
+
+=== :the grate babylon
+
+
+== Du wirst Joh Fredersen vernichten - ihn und sein Stadt und seinen Sohn !
+
+=== :you will destroy Joh Fredersen, him and his city and his son !
+
+
+
+____
+look the 7 deadly sins are here
+____
+
+== **written on the statues**
+|===
+| VÖLLEREI	| GLOTTONY
+| GEIZ		| GREED
+| EITELKEIT	| PRIDE
+| WOLLUST	| LUST
+| NEID		| ENVY
+| ZORN		| WRATH
+| TÄGHEIT	| SLOTH
+|===
+
+
+
+
+
+
