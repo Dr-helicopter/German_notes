@@ -101,13 +101,10 @@ von     : from
 Ihnen   : you in dative
 
 
-meaning :
-how the fuck am i hearing this from my son not you dumass?
 
+=== :how the fuck am i hearing this from my son not you dumass?
 
 die+ Einzelheiten = elaboration
-
-
 
 == Was hattest du in den Maschinensälen zu suchen, freder?
 was : what
@@ -127,7 +124,7 @@ litteral tanslation:
 what did you have to look for in the machine halls?
 
 natural translation:
-the fuck were you doing in the machine halls?
+=== :the fuck were you doing in the machine halls?
 
 
 :head3: Ich wollte den Menschen in die Gesichter sehen,deren kline kinder \ 
@@ -154,13 +151,14 @@ die+ Schwestern = sisters
 
 sind is conjegated here and is being controlled by the deren at the beginning 
 
-so it means:
-i wanted to look into the faces of the people, whose small children are my
-brothers and sisters.
+
+:mean4: i wanted to look into the faces of the people, whose small children are my brothers and sisters.
+=== {mean4}
 
 
-
-**can I just write down that i love this scene?. I really love this scene.**
+___
+can I just write down that i love this scene?. I really love this scene.
+___
 
 :head4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
 im Licht dieser Stadt... 
@@ -173,9 +171,9 @@ dieser : this, such
 
 das Licht = light 
 
-meaning : 
-your glrious city, father and you the brain of it, and all of us in the light of
-this city...
+:mean2: your glrious city, father and you the brain of it, and all of us in \
+the light of this city...
+=== :{mean2}
 
 
 
@@ -185,7 +183,7 @@ bauten : to build
 erbauten: gives bauten a more formal and literary meaning, something like : bring
 to existance.
 
-meaning: and where are the people, father whose hands built your city?
+=== : and where are the people, father whose hands built your city?
 
 == Wo sie hingehören
 
@@ -196,13 +194,13 @@ meaning: and where are the people, father whose hands built your city?
 |hin 		| to belong (toward somewhere spicific)
 |===
 
-meaning: where they blong
-
-
+=== : where they blong
 
 == ... wo sie hingehören ... ?
 
-**already translated**
+___
+already translated
+___
 
 
 == in die Tiefe ?
@@ -228,9 +226,7 @@ einmal : once, her it means 'one day' or 'someday'
 
 gegen : against, in oposition to
 
-meaning: 
-and when those in the depth one day rise up against you?
-
+=== : and when those in the depth one day rise up against you?
 
 
 == der Erste Werkmeister an der Herz-Maschine Grot, mit wichtiger Meldung
@@ -252,8 +248,7 @@ Grot : here its the name
 wichtiger --adj--> important == Groß
 die Meldung = message
 
-meaning:
-head workmaster at the heart machine Grot, with important messege
+=== : head workmaster at the heart machine Grot, with important messege
 
 
 == Da sind wieder zwei von den verdammten Plänen, Herr Fredersen
@@ -266,8 +261,7 @@ verdammten --adj--> fucking
 die+ Pläne = plans, maps
 
 
-meaning: 
-there are two more of those fucking maps mr.fredersen
+=== : there are two more of those fucking maps mr.fredersen
 
 
 == in den Taschen von zweien, die heut an der M-Machine verunglückt sind ...
@@ -280,8 +274,7 @@ zweien = two thing, 2 people,
 
 verunglückt : with accident
 
-means:
-in the pockets of 2 of the people who had an accident in the machine today.
+=== : in the pockets of 2 of the people who had an accident in the machine today.
 
 
 :head5: Wie kommet es, josaphte, dass mir diese Pläne von Grot gebracht werden \
@@ -290,9 +283,7 @@ in the pockets of 2 of the people who had an accident in the machine today.
 
 dass mir ... gebracht werden : being brought to me
 
-meaning:
-how the fuck am i recieving these maps from Grot and not from your useless ass?
-
+=== : how the fuck am i recieving these maps from Grot and not from your useless ass?
 
 == Die G-Bank wied Ihnen Ihr Restgehalt auszahlen
 
@@ -310,10 +301,11 @@ das Restgehalt = remanning salary
 werden + infinitive is how a future sentence is constructed so
 'wied ... auszhlen' means: will pay out
 
-meanning: 
-the G-bank will pay you your remanning salary (get the fuck out!)
+=== : the G-bank will pay you your remanning salary (get the fuck out!)
 
-**and bro doesnt even try to defend himself! DAMN!**
+___
+and bro doesnt even try to defend himself! DAMN!
+___
 
 :haed6: Vater weisst Du, was das heisst, so von Dir entlassen zu werden? \
 Das heist: hinunter! - Vater hinunter! In die Tiefe!
@@ -330,28 +322,17 @@ so von Dir entlassen zu werden : to be fired by you
 hinunter: downward, go down
 
 
-so it ends up meaning:
-father you know what it means to be fired by you!
-it means: go down!
-go down to the depth
-
-
-
+=== : father you know what it means to be fired by you! it means: go down! go down to the depth
 
 == Wissen Sie, was das heisst, von Joh Fredersen so entlassen zu werden?
 
 here Sie is obvoiusly talking in a formal and respectfull way 
 (freder is some sort of a prince afterall).
-meaning :
-do you know what it means to be fired by john fredderen?
-
-
+=== : do you know what it means to be fired by john fredderen?
 
 == Wollen sie zu mir kommen Josaphet?
 
-meaning:
-do you want to come to me josaphte?
-
+=== : do you want to come to me josaphte?
 
 
 :head7: Gehen Sie heim, Josaphate, und warten Sie auf mich... \
@@ -370,14 +351,10 @@ it means having something to do
 
 einen weiten Weg : a long path
 
-so here it means:
-go home josaphate and wait for me.
-i have a long way to go tonight.
-
+=== : go home josaphate and wait for me. i have a long way to go tonight.
 
 == in die Teife zu mienen Brüdern...
-m: in the depth to my brothers...
-
+=== : in the depth to my brothers...
 
 
 :head8: von heute an wünsche ich, über jeden Schritt meines Sohnes genau \
@@ -394,33 +371,27 @@ genau --adj--> exactly
 unterrichten : to informe
 
 
-meaning: 
-starting from today, i want to be informed of every exact step my son takes
-
-
+=== : starting from today, i want to be informed of every exact step my son takes
 
 
 == Bruder
-=== :bro!
 
+=== :bro!
 
 == die Maschine! ... Es muss ein Mensch an der Machine sein!
 
 der Mensch = person, human
 
-meaning:
-the Machine! someone must be at the Machine!
-
+=== : the Machine! someone must be at the Machine!
 
 == Es w i r d ein Mensche an der Maschine sein
 
 Es wird ... sein : there will be ...
 
-meaning:
-someone will be at the Machine!
-
+=== : someone will be at the Machine!
 
 == ICH
+
 === :ME !!!!
 
 
@@ -430,20 +401,13 @@ Höre mich an: hear me out
 
 tauschen : to swap
 
-
-meaning:
-hear me out, i want to swap places with you
-
+=== : hear me out, i want to swap places with you
 
 == Wartet auf mich beide
 Wartet : to wait
 beide : both
 
-meaning:
-wait for me (both of you)
-
-
-
+=== : wait for me (both of you)
 
 :head9: Mitten in Metropolis lag ein seltsames Haus, das die Iahrhundrte \
 vergessen hatten
@@ -461,27 +425,32 @@ vergessen : to forget
 meanning:
 in the middle of metropolis lay a strange house that the centuries had forgotten
 
-
 == Der Mann, der darin whohnt war Rotwang, der Erfinder
+
 === :the man who lived there was Rotwang the inventor
 
 
-**he's got that starwars-ass hand too**
+___
+he's got that starwars-ass hand too
+___
 
 
 == Joh Fredersen...
 
 
-
 == Ein Hirn wie das Deine, Rotwang, müsste vergessen können...
+
 === :a brain like yours, Rotwang, must be able to forget
 
 
-**oscar level acting befor the oscars were even a thing!**
+___
+oscar level acting befor the oscars were even a thing!
+___
 
 :head10: Ich habe ein einziges Mal im Leben etwas vergessen: Dass Hel ein Weib \
 war und Du ein mann
 == {head10}
+
 === :i have forgotten somethong in my life only once: that hel was a woman and you were a man
 
 
@@ -491,7 +460,6 @@ ruhen : to rest
 gestorben --adj--> dead
 
 === :let the dead rest Rotwang... she is as dead to you as she is to me
-
 
 == Mir ist sie nicht gestorben Joh Fredersen, mir lebt sie !!!
 === :she is not dead to me joh fredersen. to me SHE LIVES!!!!
@@ -508,12 +476,14 @@ die WiederErschaffung = recreation
 === :do you think the loss of a hand is too high of a price for the recreation of 
 Hel?
 
-
 == Willst du sie sehen?
+
 === :wanna see her?
 
 
-**HOW THE FUCK DID THEY MAKE THIS?**
+___
+HOW THE FUCK DID THEY MAKE THIS?
+___
 
 :head12: Nun, Joh Fredersen ?! Lohnt es sich nicht, eine Hand zu verliren, um \
 den Menschen der Zukunft den M a s c h i n e n - M e n s c h e n geschaffen zu \
@@ -540,19 +510,17 @@ der Erdgebornen : old german
 
 unterscheiden : to distinguish
 
-meaning:
-in 24 hours of work, no one can distinguish the machine man form an ordenery 
-earth-born
-
+=== : in 24 hours of work, no one can distinguish the machine man form an ordenery earth-born
 
 == Mein ist die Freau, Joh Fredersen! Dir bleib der Sohen der Hel!
 
 bleib : stay
 
-meaning:
-mine is the woman, with you stays the son of hel!
+=== : mine is the woman, with you stays the son of hel!
 
-**mainiac!**
+___
+mainiac!
+___
 
 == Und was führt Dich zu mir Joh Frederen?
 
@@ -566,17 +534,14 @@ der Rat = advice
 die+ Sachverständingen = experts 
 versagen : to fail
 
-meaning: as always, i need your advice when all my experts fail
-
+=== : as always, i need your advice when all my experts fail
 
 == Kannst Du mir dise Pläne enträtseln, 
 die man seit Monaten in den Taschen meiner Arbeiter findet ? 
 
 man: people, they
 
-meaning: 
-can you decifer these maps for me? 
-they are being found in the pockets of workers for months
+=== : can you decifer these maps for me? they are being found in the pockets of workers for months
 
 
 
@@ -590,8 +555,7 @@ they are being found in the pockets of workers for months
 
 gerufen : to summon
 
-meaning:
-at 2 after the shift witch! she has summoned again
+=== : at 2 after the shift witch! she has summoned again
 
 
 == Vater - Vater ! Nehmen zehn Stunden niemals ein Ende ??!!
@@ -600,7 +564,7 @@ Nhemen ... ein end: take an end
 fixed expressin , like "coming to an end""
 niemals : ever, never
 
-:father father , does this ten hour ever end?
+=== :father father , does this ten hour ever end?
 
 :head14: es ist ein plan der zweitausendjährigen katakomben tief under den \
 Tiefbahnen Deiner Metropolis
@@ -618,8 +582,7 @@ heraus : out
 bekommen : to recive
 herausbekommen : to find out
 
-meaning: 
-i want to find out what my workers have to do in the catecombs
+=== : i want to find out what my workers have to do in the catecombs
 
 
 
@@ -630,14 +593,15 @@ erzählen : to narrate
 
 === :today i want to tel you the story of the tower of babel
 
-
 == Auf! Lasset uns einen Trum bauen, dessen Spitze bis an die Sterne reiche!
 Auf : Up
 
 here Auf means come on, its inviting the audiance to something.
 
 Lasset uns .... bauen: lets build ...
-**lest we build a FUCKING TOWER !!!!**
+___
+lest we build a FUCKING TOWER !!!!
+___
 
 "from the article analysis session: einen tells us the thing being build is TOWER"
 
@@ -654,9 +618,10 @@ und ihr Schöpfer! Und gross ist der Mensch!
 die Welt = world
 der Schöpfer = creator, originator
 
-meaning:
-and on top of it we shall write:
-"GREATE IS THE WORLD AND ITS CREATOR AND GREAT IS THE MAN(or parhaps the mankind)"
+:mean3: and on top of it we shall write: \
+"GREATE IS THE WORLD AND ITS CREATOR AND GREAT IS THE MAN \
+(or parhaps the mankind)"
+=== {mean3}
 
 
 :head17: Aber die den Trum Babel erdachten, konnten den Trum Babel nicht bauen \
@@ -683,14 +648,16 @@ der Traum = dream
 that the brains had dreamed
 
 
-----
+____
 i love how the 1920's view of the upper class is : 
 "the smart and eduacated people that are some times crule"
 wheras now, we dont even see them as smart, thair just the assholes with money
 the avrage corperate worker is many times more educated then a billioner 
-----
+____
 
-**greate vissuals BTW**
+___
+greate vissuals BTW
+___
 
 == Lobgesang des Einen wurde Fluch der Andern.
 der Lobgesang = songsof prais
@@ -710,7 +677,9 @@ der Fluch = curse
 
 
 == sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !
-**yeah we got the messege the first time lady**
+___
+yeah we got the messege the first time lady
+___
 
 = story time is over :D
 == UND wo ist unser Mittler, Maria ?
@@ -720,6 +689,7 @@ unser : our
 
 == Wartet auf ihn! Er kommt gewiss !
 Wartet auf, aufwartet : to wait (for someone)
+
 === :have patiance! he will come for sure !
 
 
@@ -731,6 +701,7 @@ Wartet auf, aufwartet : to wait (for someone)
 === :oh mediator, have you finaly came?
 
 == Du hast mich gerufen da bin ich
+
 === :you have summond me, here i am !
 
 
@@ -739,7 +710,9 @@ Wartet auf, aufwartet : to wait (for someone)
 == Rotwang gib dem Maschinen-Menscen das Gesicht dieses Weibes
 === :Rotwang givethe machine man, this woman's face
 
-**evil ass CEO right here**
+___
+evil ass CEO right here
+___
 
 :head19: Ich wil Zwietracht säen zwischen ihnen und ihr! \
 Ich will ihren Glauben an diese Frau zerstören
