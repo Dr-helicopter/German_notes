@@ -28,7 +28,7 @@ ____
 ahem...
 ____
 
-=== **THE MEDIATOR BTWEEN THE BRAIN AND THE HANDS MUST BE THE HEART !!!!!!!**
+=== :**THE MEDIATOR BTWEEN THE BRAIN AND THE HANDS MUST BE THE HEART !!!!!!!**
 
 ____
 echo ...
@@ -50,7 +50,7 @@ die+ Arbeiter = workers
 and der Arbeiter becomes of the workers
 
 so it becomes:
-=== Deep beneath the earth lay the city of the workers
+=== :Deep beneath the earth lay the city of the workers
 
 
 
@@ -82,7 +82,7 @@ die+ stadions       = stadiums
 :mean1: as the city of the worksers lay deep under ground, so did tower haigh \
 the residental above it, called the club of the sons. with its lecture rooms \
 and librarries and theaters and studiums.
-=== {mean1}
+=== :{mean1}
 
 
 :head2: Wie kommt es josaphte, dass ich durch meinnen sohn von der Explosion \
@@ -153,7 +153,7 @@ sind is conjegated here and is being controlled by the deren at the beginning
 
 
 :mean4: i wanted to look into the faces of the people, whose small children are my brothers and sisters.
-=== {mean4}
+=== :{mean4}
 
 
 ___
@@ -183,7 +183,7 @@ bauten : to build
 erbauten: gives bauten a more formal and literary meaning, something like : bring
 to existance.
 
-=== : and where are the people, father whose hands built your city?
+=== :and where are the people, father whose hands built your city?
 
 == Wo sie hingehören
 
@@ -194,7 +194,7 @@ to existance.
 |hin 		| to belong (toward somewhere spicific)
 |===
 
-=== : where they blong
+=== :where they blong
 
 == ... wo sie hingehören ... ?
 
@@ -226,7 +226,7 @@ einmal : once, her it means 'one day' or 'someday'
 
 gegen : against, in oposition to
 
-=== : and when those in the depth one day rise up against you?
+=== :and when those in the depth one day rise up against you?
 
 
 == der Erste Werkmeister an der Herz-Maschine Grot, mit wichtiger Meldung
@@ -248,7 +248,7 @@ Grot : here its the name
 wichtiger --adj--> important == Groß
 die Meldung = message
 
-=== : head workmaster at the heart machine Grot, with important messege
+=== :head workmaster at the heart machine Grot, with important messege
 
 
 == Da sind wieder zwei von den verdammten Plänen, Herr Fredersen
@@ -261,7 +261,7 @@ verdammten --adj--> fucking
 die+ Pläne = plans, maps
 
 
-=== : there are two more of those fucking maps mr.fredersen
+=== :there are two more of those fucking maps mr.fredersen
 
 
 == in den Taschen von zweien, die heut an der M-Machine verunglückt sind ...
@@ -274,7 +274,7 @@ zweien = two thing, 2 people,
 
 verunglückt : with accident
 
-=== : in the pockets of 2 of the people who had an accident in the machine today.
+=== :in the pockets of 2 of the people who had an accident in the machine today.
 
 
 :head5: Wie kommet es, josaphte, dass mir diese Pläne von Grot gebracht werden \
@@ -283,7 +283,7 @@ verunglückt : with accident
 
 dass mir ... gebracht werden : being brought to me
 
-=== : how the fuck am i recieving these maps from Grot and not from your useless ass?
+=== :how the fuck am i recieving these maps from Grot and not from your useless ass?
 
 == Die G-Bank wied Ihnen Ihr Restgehalt auszahlen
 
@@ -301,7 +301,7 @@ das Restgehalt = remanning salary
 werden + infinitive is how a future sentence is constructed so
 'wied ... auszhlen' means: will pay out
 
-=== : the G-bank will pay you your remanning salary (get the fuck out!)
+=== :the G-bank will pay you your remanning salary (get the fuck out!)
 
 ___
 and bro doesnt even try to defend himself! DAMN!
@@ -322,17 +322,17 @@ so von Dir entlassen zu werden : to be fired by you
 hinunter: downward, go down
 
 
-=== : father you know what it means to be fired by you! it means: go down! go down to the depth
+=== :father you know what it means to be fired by you! it means: go down! go down to the depth
 
 == Wissen Sie, was das heisst, von Joh Fredersen so entlassen zu werden?
 
 here Sie is obvoiusly talking in a formal and respectfull way 
 (freder is some sort of a prince afterall).
-=== : do you know what it means to be fired by john fredderen?
+=== :do you know what it means to be fired by john fredderen?
 
 == Wollen sie zu mir kommen Josaphet?
 
-=== : do you want to come to me josaphte?
+=== :do you want to come to me josaphte?
 
 
 :head7: Gehen Sie heim, Josaphate, und warten Sie auf mich... \
@@ -351,10 +351,10 @@ it means having something to do
 
 einen weiten Weg : a long path
 
-=== : go home josaphate and wait for me. i have a long way to go tonight.
+=== :go home josaphate and wait for me. i have a long way to go tonight.
 
 == in die Teife zu mienen Brüdern...
-=== : in the depth to my brothers...
+=== :in the depth to my brothers...
 
 
 :head8: von heute an wünsche ich, über jeden Schritt meines Sohnes genau \
@@ -371,7 +371,7 @@ genau --adj--> exactly
 unterrichten : to informe
 
 
-=== : starting from today, i want to be informed of every exact step my son takes
+=== :starting from today, i want to be informed of every exact step my son takes
 
 
 == Bruder
@@ -382,13 +382,13 @@ unterrichten : to informe
 
 der Mensch = person, human
 
-=== : the Machine! someone must be at the Machine!
+=== :the Machine! someone must be at the Machine!
 
 == Es w i r d ein Mensche an der Maschine sein
 
 Es wird ... sein : there will be ...
 
-=== : someone will be at the Machine!
+=== :someone will be at the Machine!
 
 == ICH
 
@@ -401,13 +401,13 @@ Höre mich an: hear me out
 
 tauschen : to swap
 
-=== : hear me out, i want to swap places with you
+=== :hear me out, i want to swap places with you
 
 == Wartet auf mich beide
 Wartet : to wait
 beide : both
 
-=== : wait for me (both of you)
+=== :wait for me (both of you)
 
 :head9: Mitten in Metropolis lag ein seltsames Haus, das die Iahrhundrte \
 vergessen hatten
@@ -510,13 +510,13 @@ der Erdgebornen : old german
 
 unterscheiden : to distinguish
 
-=== : in 24 hours of work, no one can distinguish the machine man form an ordenery earth-born
+=== :in 24 hours of work, no one can distinguish the machine man form an ordenery earth-born
 
 == Mein ist die Freau, Joh Fredersen! Dir bleib der Sohen der Hel!
 
 bleib : stay
 
-=== : mine is the woman, with you stays the son of hel!
+=== :mine is the woman, with you stays the son of hel!
 
 ___
 mainiac!
@@ -534,14 +534,14 @@ der Rat = advice
 die+ Sachverständingen = experts 
 versagen : to fail
 
-=== : as always, i need your advice when all my experts fail
+=== :as always, i need your advice when all my experts fail
 
 == Kannst Du mir dise Pläne enträtseln, 
 die man seit Monaten in den Taschen meiner Arbeiter findet ? 
 
 man: people, they
 
-=== : can you decifer these maps for me? they are being found in the pockets of workers for months
+=== :can you decifer these maps for me? they are being found in the pockets of workers for months
 
 
 
@@ -555,7 +555,7 @@ man: people, they
 
 gerufen : to summon
 
-=== : at 2 after the shift witch! she has summoned again
+=== :at 2 after the shift witch! she has summoned again
 
 
 == Vater - Vater ! Nehmen zehn Stunden niemals ein Ende ??!!
@@ -582,7 +582,7 @@ heraus : out
 bekommen : to recive
 herausbekommen : to find out
 
-=== : i want to find out what my workers have to do in the catecombs
+=== :i want to find out what my workers have to do in the catecombs
 
 
 
@@ -621,7 +621,7 @@ der Schöpfer = creator, originator
 :mean3: and on top of it we shall write: \
 "GREATE IS THE WORLD AND ITS CREATOR AND GREAT IS THE MAN \
 (or parhaps the mankind)"
-=== {mean3}
+=== :{mean3}
 
 
 :head17: Aber die den Trum Babel erdachten, konnten den Trum Babel nicht bauen \
