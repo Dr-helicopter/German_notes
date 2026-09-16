@@ -23,19 +23,19 @@ we already knew that.
 
 so it means:
 
-[quote]
+
 ____
 ahem...
 ____
 
-THE MEDIATOR BTWEEN THE BRAIN AND THE HANDS MUST BE THE HEART !!!!!!!
-
+=== **THE MEDIATOR BTWEEN THE BRAIN AND THE HANDS MUST BE THE HEART !!!!!!!**
 
 ____
 echo ...
 ____
 
 
+= schicht!
 die schicht = shift
 
 
@@ -50,7 +50,7 @@ die+ Arbeiter = workers
 and der Arbeiter becomes of the workers
 
 so it becomes:
-Deep beneath the earth lay the city of the workers
+=== Deep beneath the earth lay the city of the workers
 
 
 
@@ -78,11 +78,11 @@ die+ Bibliotheken   = librarires
 die+ theatern       = theaters 
 die+ stadions       = stadiums
 
-meaninng : 
-as the city of the worksers lay deep under ground, so did tower haigh the 
-residental above it, called the club of the sons. with its lecture rooms
-and librarries and theaters and studiums.
 
+:mean1: as the city of the worksers lay deep under ground, so did tower haigh \
+the residental above it, called the club of the sons. with its lecture rooms \
+and librarries and theaters and studiums.
+=== {mean1}
 
 
 :head2: Wie kommt es josaphte, dass ich durch meinnen sohn von der Explosion \
@@ -401,7 +401,7 @@ starting from today, i want to be informed of every exact step my son takes
 
 
 == Bruder
-: bro!
+=== :bro!
 
 
 == die Maschine! ... Es muss ein Mensch an der Machine sein!
@@ -421,7 +421,7 @@ someone will be at the Machine!
 
 
 == ICH
-: ME !!!!
+=== :ME !!!!
 
 
 == Höre mich an... ich will mein Leben mit Dir tauschen...
@@ -463,7 +463,7 @@ in the middle of metropolis lay a strange house that the centuries had forgotten
 
 
 == Der Mann, der darin whohnt war Rotwang, der Erfinder
-: the man who lived there was Rotwang the inventor
+=== :the man who lived there was Rotwang the inventor
 
 
 **he's got that starwars-ass hand too**
@@ -474,7 +474,7 @@ in the middle of metropolis lay a strange house that the centuries had forgotten
 
 
 == Ein Hirn wie das Deine, Rotwang, müsste vergessen können...
-: a brain like yours, Rotwang, must be able to forget
+=== :a brain like yours, Rotwang, must be able to forget
 
 
 **oscar level acting befor the oscars were even a thing!**
@@ -482,7 +482,7 @@ in the middle of metropolis lay a strange house that the centuries had forgotten
 :head10: Ich habe ein einziges Mal im Leben etwas vergessen: Dass Hel ein Weib \
 war und Du ein mann
 == {head10}
-: i have forgotten somethong in my life only once: that hel was a woman and you were a man
+=== :i have forgotten somethong in my life only once: that hel was a woman and you were a man
 
 
 == lass die Tote ruhen, Rotwang... Sie ist Dir wie mir gestorben...
@@ -490,11 +490,11 @@ war und Du ein mann
 ruhen : to rest
 gestorben --adj--> dead
 
-: let the dead rest Rotwang... she is as dead to you as she is to me
+=== :let the dead rest Rotwang... she is as dead to you as she is to me
 
 
 == Mir ist sie nicht gestorben Joh Fredersen, mir lebt sie !!!
-: she is not dead to me joh fredersen. to me SHE LIVES!!!!
+=== :she is not dead to me joh fredersen. to me SHE LIVES!!!!
 
 :head11: Glaubst Du, der Verlust einer Hand sei zu hoher Preis für \
 die Wieder-Erschaffung der Hel?
@@ -505,12 +505,12 @@ der Verlust = loss
 
 die WiederErschaffung = recreation
 
-: do you think the loss of a hand is too high of a price for the recreation of 
+=== :do you think the loss of a hand is too high of a price for the recreation of 
 Hel?
 
 
 == Willst du sie sehen?
-: wanna see her?
+=== :wanna see her?
 
 
 **HOW THE FUCK DID THEY MAKE THIS?**
@@ -520,7 +520,7 @@ den Menschen der Zukunft den M a s c h i n e n - M e n s c h e n geschaffen zu \
 habben ?! 
 == {head12}
 
-: Well, Joh Fredersen? 
+=== :Well, Joh Fredersen? 
 Isn't it worth losing a hand? 
 in order to have created the Machine-Man for the people of the future?!
 
@@ -557,7 +557,7 @@ mine is the woman, with you stays the son of hel!
 == Und was führt Dich zu mir Joh Frederen?
 
 führen : to lead, to guid
-: and brings you here to me Joh Fredersen?
+=== :and brings you here to me Joh Fredersen?
 
 
 == Ich brauche Deinen Rat wie stets, wenn alle meine Sachverständingen versagen...
@@ -606,7 +606,7 @@ niemals : ever, never
 Tiefbahnen Deiner Metropolis
 == {head14}
 
-: it is a map of the 2000 years old catecombs running deep under the underground
+=== :it is a map of the 2000 years old catecombs running deep under the underground
 railways of your metropolis
 
 
@@ -628,7 +628,7 @@ i want to find out what my workers have to do in the catecombs
 
 erzählen : to narrate
 
-: today i want to tel you the story of the tower of babel
+=== :today i want to tel you the story of the tower of babel
 
 
 == Auf! Lasset uns einen Trum bauen, dessen Spitze bis an die Sterne reiche!
@@ -669,7 +669,7 @@ allzu : all to, way too, overly
 der Lohn = wage
 
 
-: but those who came up with the tower couldnt build the tower,
+=== :but those who came up with the tower couldnt build the tower,
 it was to great of a work, so they hired foriegn hands on wages
 
 
@@ -679,7 +679,7 @@ Traum, den das HIRN das ihn erdacht hatte träumte.
 
 der Traum = dream
 
-: but the hands, those who build he tower knew not of the dream, 
+=== :but the hands, those who build he tower knew not of the dream, 
 that the brains had dreamed
 
 
@@ -699,14 +699,14 @@ die+ Andere = others
 
 der Fluch = curse 
 
-: songs of prais became curses of others.
+=== :songs of prais became curses of others.
 
 == Gleiche Sprache sprechend. verstanden die Menschen sich nicht...
-: tho speaking the same language, the people did not understand each other.
+=== :tho speaking the same language, the people did not understand each other.
 
 
 == Einen Mittler brauchen HITN und HÄNDE
-: a mediator btween the brain and the hands is needed
+=== :a mediator btween the brain and the hands is needed
 
 
 == sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !
@@ -716,28 +716,28 @@ der Fluch = curse
 == UND wo ist unser Mittler, Maria ?
 unser : our
 
-: and who is our mediator maria ?
+=== :and who is our mediator maria ?
 
 == Wartet auf ihn! Er kommt gewiss !
 Wartet auf, aufwartet : to wait (for someone)
-: have patiance! he will come for sure !
+=== :have patiance! he will come for sure !
 
 
 == Wir werden warten Maria...! Aber nicht lange mehr !
-: we will wait maria! but not for long
+=== :we will wait maria! but not for long
 
 
 == Mittler Du, bist Du endlich gekommen...
-: oh mediator, have you finaly came?
+=== :oh mediator, have you finaly came?
 
 == Du hast mich gerufen da bin ich
-: you have summond me, here i am !
+=== :you have summond me, here i am !
 
 
 
 
 == Rotwang gib dem Maschinen-Menscen das Gesicht dieses Weibes
-: Rotwang givethe machine man, this woman's face
+=== :Rotwang givethe machine man, this woman's face
 
 **evil ass CEO right here**
 
