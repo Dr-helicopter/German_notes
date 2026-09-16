@@ -1,5 +1,4 @@
 :hardbreaks:
-
 die regie = direction
 
 = sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !!!!!!!!!!
@@ -161,7 +160,7 @@ brothers and sisters.
 
 [can I just write down that i love this scene?. I really love this scene.]
 
-:haed4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
+:head4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
 im Licht dieser Stadt... 
 
 == {head4}
@@ -201,7 +200,8 @@ meaning: where they blong
 
 
 == ... wo sie hingehören ... ?
-[already translated]
+
+already translated
 
 
 == in die Tiefe ?
