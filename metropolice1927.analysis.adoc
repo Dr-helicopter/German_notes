@@ -503,7 +503,8 @@ der Verlust = loss
 
 die WiederErschaffung = recreation
 
-: do you think the loss of a hand is too high of a price for the recreation of Hel?
+: do you think the loss of a hand is too high of a price for the recreation of 
+Hel?
 
 
 == Willst du sie sehen?
@@ -528,10 +529,12 @@ Maschinen - Menschen von eiem Erdgeborenen unterscheiden können !
 == {head13}
 
 der Erdgebornen : old german
-der Erdgeborenen = earthborn, born on earth {
-    die Erde = earth
-    der geboren = some one who has been born
-}
+|===
+|der Erdgeborenen 	| earthborn, born on earth
+
+|die Erde 		| earth
+|der geboren 	| some one who has been born
+|===
 
 unterscheiden : to distinguish
 
@@ -547,7 +550,7 @@ bleib : stay
 meaning:
 mine is the woman, with you stays the son of hel!
 
-**mainiac**
+**mainiac!**
 
 == Und was führt Dich zu mir Joh Frederen?
 
@@ -577,9 +580,11 @@ they are being found in the pockets of workers for months
 
 == ...um zwei nach dem Schichtwechsel! Sei hat weider gerufen...
 
-der Schichtwechsel = shift switch {
-    der wechsel = switch
-}
+|===
+|der Schichtwechsel	| shift switch
+
+|der wechsel 		| switch
+|===
 
 gerufen : to summon
 
@@ -603,8 +608,8 @@ Tiefbahnen Deiner Metropolis
 railways of your metropolis
 
 
-{head15} Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben zu\ 
- tun haben
+{head15} Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben \ 
+zu tun haben
 == {head15}
 
 heraus : out 
@@ -615,6 +620,8 @@ meaning:
 i want to find out what my workers have to do in the catecombs
 
 
+
+= STORY TIME !!
 == heute will ich euch die Legende OM TURMBAU ZU BABEL erzählen...
 
 erzählen : to narrate
@@ -638,7 +645,7 @@ die+ Sterne = stars
 
 meanning: COME! LETS US BUILD A TWOER WHOS TOP REACHES THE STARS
 
-:head16: Und an die Speitze des Turmes wollen wir schriben: Gross is die Welt
+:head16: Und an die Speitze des Turmes wollen wir schriben: Gross is die Welt \
 und ihr Schöpfer! Und gross ist der Mensch!
 == {head16}
 
@@ -703,7 +710,7 @@ der Fluch = curse
 == sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !
 **yeah we got the messege the first time lady**
 
-
+= story time is over :(
 == UND wo ist unser Mittler, Maria ?
 unser : our
 
