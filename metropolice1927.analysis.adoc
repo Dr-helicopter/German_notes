@@ -30,6 +30,7 @@ ____
 
 === :**THE MEDIATOR BTWEEN THE BRAIN AND THE HANDS MUST BE THE HEART !!!!!!!**
 
+
 ____
 echo ...
 ____
@@ -54,11 +55,9 @@ so it becomes:
 === :Deep beneath the earth lay the city of the workers
 
 
-
 :head1: So die Stadt der Arbeiter unter der Erde lag, so hoch über ihr \
 türmte sich der Häuserblock, der "klub der Söhne" hiess, mitt seinen Hörsälen \
 und Bibliotheken, seinen theatern und Stadions.
-
 == {head1}
 
 
@@ -104,6 +103,7 @@ Ihnen   : you in dative
 
 
 === :how the fuck am i hearing this from my son not you dumass?
+
 
 die+ Einzelheiten = elaboration
 
@@ -165,7 +165,6 @@ ____
 
 :head4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
 im Licht dieser Stadt... 
-
 == {head4}
 
 herrliche --adj--> shiny, glrious
@@ -179,7 +178,6 @@ the light of this city...
 === :{mean2}
 
 
-
 == und wo sind die Menschen, Vater deren Hände Deine Stadt erbauten ?
 
 bauten : to build
@@ -187,6 +185,7 @@ erbauten: gives bauten a more formal and literary meaning,
 something like : bring to existance.
 
 === :and where are the people, father whose hands built your city?
+
 
 == Wo sie hingehören
 
@@ -198,6 +197,7 @@ something like : bring to existance.
 |===
 
 === :where they blong
+
 
 == ... wo sie hingehören ... ?
 
@@ -290,6 +290,7 @@ dass mir ... gebracht werden : being brought to me
 useless ass?
 === :{mean5}
 
+
 == Die G-Bank wied Ihnen Ihr Restgehalt auszahlen
 
 das Gehalt = salary
@@ -307,6 +308,7 @@ werden + infinitive is how a future sentence is constructed so
 'wied ... auszhlen' means: will pay out
 
 === :the G-bank will pay you your remanning salary (get the fuck out!)
+
 
 ____
 and bro doesnt even try to defend himself!
@@ -339,6 +341,7 @@ here Sie is obvoiusly talking in a formal and respectfull way
 
 === :do you know what it means to be fired by john fredderen?
 
+
 == Wollen sie zu mir kommen Josaphet?
 
 === :do you want to come to me josaphte?
@@ -361,6 +364,7 @@ it means having something to do
 einen weiten Weg : a long path
 
 === :go home josaphate and wait for me. i have a long way to go tonight.
+
 
 == in die Teife zu mienen Brüdern...
 === :in the depth to my brothers...
@@ -387,17 +391,20 @@ unterrichten : to informe
 
 === :bro!
 
+
 == die Maschine! ... Es muss ein Mensch an der Machine sein!
 
 der Mensch = person, human
 
 === :the Machine! someone must be at the Machine!
 
+
 == Es w i r d ein Mensche an der Maschine sein
 
 Es wird ... sein : there will be ...
 
 === :someone will be at the Machine!
+
 
 == ICH
 
@@ -412,11 +419,13 @@ tauschen : to swap
 
 === :hear me out, i want to swap places with you
 
+
 == Wartet auf mich beide
 Wartet : to wait
 beide : both
 
 === :wait for me (both of you)
+
 
 :head9: Mitten in Metropolis lag ein seltsames Haus, das die Iahrhundrte \
 vergessen hatten
@@ -434,6 +443,7 @@ vergessen : to forget
 :mean7: in the middle of metropolis lay a strange house that the centuries \
 had forgotten
 === :{mean7}
+
 
 == Der Mann, der darin whohnt war Rotwang, der Erfinder
 
@@ -465,6 +475,7 @@ war und Du ein mann
 and you were a man
 === :{mean8}
 
+
 == lass die Tote ruhen, Rotwang... Sie ist Dir wie mir gestorben...
 
 ruhen : to rest
@@ -472,8 +483,10 @@ gestorben --adj--> dead
 
 === :let the dead rest Rotwang... she is as dead to you as she is to me
 
+
 == Mir ist sie nicht gestorben Joh Fredersen, mir lebt sie !!!
 === :she is not dead to me joh fredersen. to me SHE LIVES!!!!
+
 
 :head11: Glaubst Du, der Verlust einer Hand sei zu hoher Preis für \
 die Wieder-Erschaffung der Hel?
@@ -487,6 +500,7 @@ die WiederErschaffung = recreation
 :mean9: do you think the loss of a hand is too high of a price for the \
 recreation of Hel?
 === :{mean9}
+
 
 == Willst du sie sehen?
 
@@ -525,11 +539,13 @@ unterscheiden : to distinguish
 ordenery earth-born
 === :{mean11}
 
+
 == Mein ist die Freau, Joh Fredersen! Dir bleib der Sohen der Hel!
 
 bleib : stay
 
 === :mine is the woman, with you stays the son of hel!
+
 
 ____
 mainiac!
@@ -549,6 +565,7 @@ versagen : to fail
 
 === :as always, i need your advice when all my experts fail
 
+
 :head20: Kannst Du mir dise Pläne enträtseln, die man seit Monaten in den \
 Taschen meiner Arbeiter findet ? 
 == {head20}
@@ -558,6 +575,7 @@ man: people, they
 :mean12: can you decifer these maps for me? they are being found in the \
 pockets of workers for months
 === :{mean12}
+
 
 == ...um zwei nach dem Schichtwechsel! Sei hat weider gerufen...
 
@@ -580,6 +598,7 @@ niemals : ever, never
 
 === :father father , does this ten hour ever end?
 
+
 :head14: es ist ein plan der zweitausendjährigen katakomben tief under den \
 Tiefbahnen Deiner Metropolis
 == {head14}
@@ -588,7 +607,8 @@ Tiefbahnen Deiner Metropolis
 underground railways of your metropolis
 === :{mean13}
 
-{head15} Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben \ 
+
+:head15: Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben \ 
 zu tun haben
 == {head15}
 
@@ -599,13 +619,13 @@ herausbekommen : to find out
 === :i want to find out what my workers have to do in the catecombs
 
 
-
 = STORY TIME !!
 == heute will ich euch die Legende OM TURMBAU ZU BABEL erzählen...
 
 erzählen : to narrate
 
 === :today i want to tel you the story of the tower of babel
+
 
 == Auf! Lasset uns einen Trum bauen, dessen Spitze bis an die Sterne reiche!
 Auf : Up
@@ -626,7 +646,8 @@ dessen : whose, of which
 
 die+ Sterne = stars
 
-=== : COME! LETS US BUILD A TWOER WHOS TOP REACHES THE STARS
+=== :COME! LETS US BUILD A TWOER WHOS TOP REACHES THE STARS
+
 
 :head16: Und an die Speitze des Turmes wollen wir schriben: Gross is die Welt \
 und ihr Schöpfer! Und gross ist der Mensch!
@@ -651,8 +672,9 @@ allzu : all to, way too, overly
 der Lohn = wage
 
 
-=== :but those who came up with the tower couldnt build the tower,
+:mean14: but those who came up with the tower couldnt build the tower, \
 it was to great of a work, so they hired foriegn hands on wages
+=== :{mean14}
 
 
 :head18: Aber die Hände , die den Trum Babel erbuten, wussten nichts von dem \
@@ -661,8 +683,9 @@ Traum, den das HIRN das ihn erdacht hatte träumte.
 
 der Traum = dream
 
-=== :but the hands, those who build he tower knew not of the dream, 
-that the brains had dreamed
+:mean15: but the hands, those who build he tower knew not of the dream, that \
+the brains had dreamed
+=== {mean15}
 
 
 ____
@@ -685,6 +708,7 @@ der Fluch = curse
 
 === :songs of prais became curses of others.
 
+
 == Gleiche Sprache sprechend. verstanden die Menschen sich nicht...
 === :tho speaking the same language, the people did not understand each other.
 
@@ -704,6 +728,7 @@ unser : our
 
 === :and who is our mediator maria ?
 
+
 == Wartet auf ihn! Er kommt gewiss !
 Wartet auf, aufwartet : to wait (for someone)
 
@@ -717,15 +742,15 @@ Wartet auf, aufwartet : to wait (for someone)
 == Mittler Du, bist Du endlich gekommen...
 === :oh mediator, have you finaly came?
 
+
 == Du hast mich gerufen da bin ich
 
 === :you have summond me, here i am !
 
 
-
-
 == Rotwang gib dem Maschinen-Menscen das Gesicht dieses Weibes
 === :Rotwang givethe machine man, this woman's face
+
 
 ____
 evil ass CEO right here
