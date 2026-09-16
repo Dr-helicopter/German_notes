@@ -187,7 +187,7 @@ meaning: and where are the people, father whose hands built your city?
 
 == Wo sie hingehören
 
-[grid=none]
+[frame=none]
 |===
 |gehören 	| to belong 
 
