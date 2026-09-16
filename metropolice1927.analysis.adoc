@@ -50,6 +50,7 @@ die+ Arbeiter = workers
 and der Arbeiter becomes of the workers
 
 so it becomes:
+
 === :Deep beneath the earth lay the city of the workers
 
 
@@ -124,6 +125,7 @@ litteral tanslation:
 what did you have to look for in the machine halls?
 
 natural translation:
+
 === :the fuck were you doing in the machine halls?
 
 
@@ -156,9 +158,9 @@ sind is conjegated here and is being controlled by the deren at the beginning
 === :{mean4}
 
 
-___
+____
 can I just write down that i love this scene?. I really love this scene.
-___
+____
 
 :head4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
 im Licht dieser Stadt... 
@@ -198,9 +200,9 @@ to existance.
 
 == ... wo sie hingehören ... ?
 
-___
+____
 already translated
-___
+____
 
 
 == in die Tiefe ?
@@ -536,8 +538,7 @@ versagen : to fail
 
 === :as always, i need your advice when all my experts fail
 
-== Kannst Du mir dise Pläne enträtseln, 
-die man seit Monaten in den Taschen meiner Arbeiter findet ? 
+== Kannst Du mir dise Pläne enträtseln, die man seit Monaten in den Taschen meiner Arbeiter findet ? 
 
 man: people, they
 
