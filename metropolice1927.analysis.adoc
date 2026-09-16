@@ -154,7 +154,8 @@ die+ Schwestern = sisters
 sind is conjegated here and is being controlled by the deren at the beginning 
 
 
-:mean4: i wanted to look into the faces of the people, whose small children are my brothers and sisters.
+:mean4: i wanted to look into the faces of the people, whose small children \
+are my brothers and sisters.
 === :{mean4}
 
 
@@ -182,8 +183,8 @@ the light of this city...
 == und wo sind die Menschen, Vater deren Hände Deine Stadt erbauten ?
 
 bauten : to build
-erbauten: gives bauten a more formal and literary meaning, something like : bring
-to existance.
+erbauten: gives bauten a more formal and literary meaning, 
+something like : bring to existance.
 
 === :and where are the people, father whose hands built your city?
 
@@ -285,7 +286,9 @@ verunglückt : with accident
 
 dass mir ... gebracht werden : being brought to me
 
-=== :how the fuck am i recieving these maps from Grot and not from your useless ass?
+:mean5: how the fuck am i recieving these maps from Grot and not from your \
+useless ass?
+=== :{mean5}
 
 == Die G-Bank wied Ihnen Ihr Restgehalt auszahlen
 
@@ -325,7 +328,9 @@ so von Dir entlassen zu werden : to be fired by you
 hinunter: downward, go down
 
 
-=== :father you know what it means to be fired by you! it means: go down! go down to the depth
+:mean6: father you know what it means to be fired by you! it means: go down! \
+go down to the depth
+===  :{mean6}
 
 == Wissen Sie, was das heisst, von Joh Fredersen so entlassen zu werden?
 
@@ -426,7 +431,9 @@ die+ Jahrhunderte = centuries
 
 vergessen : to forget
 
-=== :in the middle of metropolis lay a strange house that the centuries had forgotten
+:mean7: in the middle of metropolis lay a strange house that the centuries \
+had forgotten
+=== :{mean7}
 
 == Der Mann, der darin whohnt war Rotwang, der Erfinder
 
@@ -454,8 +461,9 @@ ____
 war und Du ein mann
 == {head10}
 
-=== :i have forgotten somethong in my life only once: that hel was a woman and you were a man
-
+:mean8: i have forgotten somethong in my life only once: that hel was a woman \
+and you were a man
+=== :{mean8}
 
 == lass die Tote ruhen, Rotwang... Sie ist Dir wie mir gestorben...
 
@@ -476,8 +484,9 @@ der Verlust = loss
 
 die WiederErschaffung = recreation
 
-=== :do you think the loss of a hand is too high of a price for the recreation of 
-Hel?
+:mean9: do you think the loss of a hand is too high of a price for the \
+recreation of Hel?
+=== :{mean9}
 
 == Willst du sie sehen?
 
@@ -493,10 +502,9 @@ den Menschen der Zukunft den M a s c h i n e n - M e n s c h e n geschaffen zu \
 habben ?! 
 == {head12}
 
-=== :Well, Joh Fredersen? 
-Isn't it worth losing a hand? 
-in order to have created the Machine-Man for the people of the future?!
-
+:mean10: Well, Joh Fredersen? Isn't it worth losing a hand? in order to have \
+created the Machine-Man for the people of the future?!
+=== :{mean10}
 
 
 :head13: Noch 24 Stunden Arbeit und kein Mensch, Joh Frederen, wird den \
@@ -513,7 +521,9 @@ der Erdgebornen : old german
 
 unterscheiden : to distinguish
 
-=== :in 24 hours of work, no one can distinguish the machine man form an ordenery earth-born
+:mean11: in 24 hours of work, no one can distinguish the machine man form an \
+ordenery earth-born
+=== :{mean11}
 
 == Mein ist die Freau, Joh Fredersen! Dir bleib der Sohen der Hel!
 
@@ -531,7 +541,7 @@ führen : to lead, to guid
 === :and brings you here to me Joh Fredersen?
 
 
-== Ich brauche Deinen Rat wie stets, wenn alle meine Sachverständingen versagen...
+== Ich brauche Deinen Rat wie stets, wenn alle meine Sachverständingen versagen.
 
 der Rat = advice
 die+ Sachverständingen = experts 
@@ -539,13 +549,15 @@ versagen : to fail
 
 === :as always, i need your advice when all my experts fail
 
-== Kannst Du mir dise Pläne enträtseln, die man seit Monaten in den Taschen meiner Arbeiter findet ? 
+:head20: Kannst Du mir dise Pläne enträtseln, die man seit Monaten in den \
+Taschen meiner Arbeiter findet ? 
+== {head20}
 
 man: people, they
 
-=== :can you decifer these maps for me? they are being found in the pockets of workers for months
-
-
+:mean12: can you decifer these maps for me? they are being found in the \
+pockets of workers for months
+=== :{mean12}
 
 == ...um zwei nach dem Schichtwechsel! Sei hat weider gerufen...
 
@@ -572,9 +584,9 @@ niemals : ever, never
 Tiefbahnen Deiner Metropolis
 == {head14}
 
-=== :it is a map of the 2000 years old catecombs running deep under the underground
-railways of your metropolis
-
+:mean13: it is a map of the 2000 years old catecombs running deep under the \
+underground railways of your metropolis
+=== :{mean13}
 
 {head15} Ich möcht doch herausbekommen, was meine Arbeiter in den Katakomben \ 
 zu tun haben
@@ -605,7 +617,10 @@ ____
 lest we build a FUCKING TOWER !!!!
 ____
 
-"from the article analysis session: einen tells us the thing being build is TOWER"
+----
+from the article analysis session: 
+einen tells us the thing being build is TOWER
+----
 
 dessen : whose, of which
 
@@ -722,4 +737,4 @@ Ich will ihren Glauben an diese Frau zerstören
 
 zerstören : to destroy
 
-i want chaos btwen them, i want thair faith in this woman destroied 
+=== :i want chaos btwen them, i want thair faith in this woman destroied 
