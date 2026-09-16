@@ -158,7 +158,7 @@ brothers and sisters.
 
 
 
-[can I just write down that i love this scene?. I really love this scene.]
+**can I just write down that i love this scene?. I really love this scene.**
 
 :head4: Deine herrliche Stadt, Vater und Du das Hirn dieser Stadt und wir alle \
 im Licht dieser Stadt... 
@@ -187,7 +187,6 @@ meaning: and where are the people, father whose hands built your city?
 
 == Wo sie hingehören
 
-[frame=none]
 |===
 |gehören 	| to belong 
 
@@ -201,7 +200,7 @@ meaning: where they blong
 
 == ... wo sie hingehören ... ?
 
-'already translated'
+**already translated**
 
 
 == in die Tiefe ?
@@ -283,8 +282,8 @@ means:
 in the pockets of 2 of the people who had an accident in the machine today.
 
 
-:head5: Wie kommet es, josaphte, dass mir diese Pläne von Grot gebracht werden,\
-statt von Ihnen?
+:head5: Wie kommet es, josaphte, dass mir diese Pläne von Grot gebracht werden \
+, statt von Ihnen?
 == {head5}
 
 dass mir ... gebracht werden : being brought to me
@@ -298,9 +297,12 @@ how the fuck am i recieving these maps from Grot and not from your useless ass?
 das Gehalt = salary
 das Restgehalt = remanning salary
 
-zalen : to pay + {
-    aus: to pay out, to get even
-}
+|===
+| zalen | to pay
+
+|+ 		|
+|aus	| to pay out, to get even
+|===
 
 
 werden + infinitive is how a future sentence is constructed so
@@ -309,7 +311,7 @@ werden + infinitive is how a future sentence is constructed so
 meanning: 
 the G-bank will pay you your remanning salary (get the fuck out!)
 
-[and bro doesnt even try to defend himself! DAMN! ]
+**and bro doesnt even try to defend himself! DAMN!**
 
 :haed6: Vater weisst Du, was das heisst, so von Dir entlassen zu werden? \
 Das heist: hinunter! - Vater hinunter! In die Tiefe!
@@ -462,7 +464,7 @@ in the middle of metropolis lay a strange house that the centuries had forgotten
 : the man who lived there was Rotwang the inventor
 
 
-[he's got that starwars-ass hand too]
+**he's got that starwars-ass hand too**
 
 
 == Joh Fredersen...
@@ -473,7 +475,7 @@ in the middle of metropolis lay a strange house that the centuries had forgotten
 : a brain like yours, Rotwang, must be able to forget
 
 
-[oscar level avting befor the oscars were even a thing!]
+**oscar level acting befor the oscars were even a thing!**
 
 :head10:
 Ich habe ein einziges Mal im Leben etwas vergessen: Dass Hel ein Weib war und \
@@ -509,7 +511,7 @@ die WiederErschaffung = recreation
 : wanna see her?
 
 
-[HOW THE FUCK DID THEY MAKE THIS?]
+**HOW THE FUCK DID THEY MAKE THIS?**
 
 :head12: Nun, Joh Fredersen ?! Lohnt es sich nicht, eine Hand zu verliren, um \
 den Menschen der Zukunft den M a s c h i n e n - M e n s c h e n geschaffen zu \
@@ -545,7 +547,8 @@ bleib : stay
 
 meaning:
 mine is the woman, with you stays the son of hel!
-[ mainiac ]
+
+**mainiac**
 
 == Und was führt Dich zu mir Joh Frederen?
 
@@ -626,7 +629,7 @@ Auf : Up
 here Auf means come on, its inviting the audiance to something.
 
 Lasset uns .... bauen: lets build ...
-[lest we build a FUCKING TOWER !!!!]
+**lest we build a FUCKING TOWER !!!!**
 
 "from the article analysis session: einen tells us the thing being build is TOWER"
 
@@ -672,14 +675,14 @@ der Traum = dream
 that the brains had dreamed
 
 
-[
+----
 i love how the 1920's view of the upper class is : 
 "the smart and eduacated people that are some times crule"
 wheras now, we dont even see them as smart, thair just the assholes with money
 the avrage corperate worker is many times more educated then a billioner 
-]
+----
 
-[greate vissuals BTW]
+**greate vissuals BTW**
 
 == Lobgesang des Einen wurde Fluch der Andern.
 der Lobgesang = songsof prais
@@ -699,7 +702,7 @@ der Fluch = curse
 
 
 == sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !
-[yeah we got the messege the first time lady]
+**yeah we got the messege the first time lady**
 
 
 == UND wo ist unser Mittler, Maria ?
@@ -728,7 +731,7 @@ Wartet auf, aufwartet : to wait (for someone)
 == Rotwang gib dem Maschinen-Menscen das Gesicht dieses Weibes
 : Rotwang givethe machine man, this woman's face
 
-[evil ass CEO right here]
+**evil ass CEO right here**
 
 :head19: Ich wil Zwietracht säen zwischen ihnen und ihr! \
 Ich will ihren Glauben an diese Frau zerstören
