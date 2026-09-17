@@ -299,7 +299,7 @@ so von Dir entlassen zu werden : to be fired by you
 
 hinunter: downward, go down
 
-===  :father you know what it means to be fired by you! it means: go down! go down to the depth
+=== :father you know what it means to be fired by you! it means: go down! go down to the depth
 
 
 
@@ -633,7 +633,7 @@ der Lohn = wage
 
 der Traum = dream
 
-=== ut the hands, those who build he tower knew not of the dream, that the brains had dreamed
+=== :ut the hands, those who build he tower knew not of the dream, that the brains had dreamed
 
 
 
@@ -844,13 +844,13 @@ and move on
 tragen: to wear
 die+ Kleider = clothes
 
-=== where is he, the one whose clothe you are wearing?
+=== :where is he, the one whose clothe you are wearing?
 
 
 
 == Wollen Sei bitte Georgy wecken? Er muss mich sofort in die Arbeiterstadt führen...
 
-=== would you please wake Georgy? he must guid me to the city of workers rightaway
+=== :would you please wake Georgy? he must guid me to the city of workers rightaway
 
 
 
@@ -865,7 +865,7 @@ die+ Kleider = clothes
 
 vergessen : to forgor
 
-=== number 11811, return to machine and forgor that any of this ever happend. understood?
+=== :number 11811, return to machine and forgor that any of this ever happend. understood?
 
 
 
@@ -877,13 +877,13 @@ das Ziel = objective, goal
 
 Ziel meines Weges kommen : reaching my goal 
 
-=== I must have someone loyal to me, Josaphat. how else am I supposed to reach my goal? 
+=== :I must have someone loyal to me, Josaphat. how else am I supposed to reach my goal? 
 
 
 
 ==  Ich muss weiter, Josaphat - muss nun allein den Menschen suchen, zi dem mir Georgy den Weg zeigen sollte
 
-=== I must contineu, Josaphat - to search for the person Georgy was suposed to lead me to
+=== :I must contineu, Josaphat - to search for the person Georgy was suposed to lead me to
 
 
 
@@ -891,13 +891,13 @@ Ziel meines Weges kommen : reaching my goal
 
 der Heute Aubend = today evening, tonight
 
-=== tonight, Josaphat tonight, when I come back
+=== :tonight, Josaphat tonight, when I come back
 
 
 
 == Also, welchen Preis verlangen Sie dafür, dass Sei diese Wohnung heute Abend verlassen habben?
 
-=== so what prise you are asking for, to leave this apartment tonight?
+=== :so what prise you are asking for, to leave this apartment tonight?
 
 
 
@@ -907,13 +907,13 @@ scheinen  : to apear like
 begriffen : to figure out
 der Auftrag = job, commission
 
-=== you seem to have not figured out in whose orders I am...
+=== :you seem to have not figured out in whose orders I am...
 
 
 
 == Dieser Mann wünscht nicht, dass sein Sohn Sie heute abend noch hier findet !
 
-=== this man does not want his son, to find you here tonight !
+=== :this man does not want his son, to find you here tonight !
 
 
 
@@ -926,7 +926,7 @@ der Auftrag = job, commission
 | ab 	| to pick up to collect
 |===
 
-=== in 3 hours I'll pick you up !
+=== :in 3 hours I'll pick you up !
 
 
 
@@ -935,7 +935,7 @@ der Auftrag = job, commission
 die Zeit = time
 geben : to give 
 
-=== come it's time to give the machine-man your face !
+=== :come it's time to give the machine-man your face !
 
 
 
@@ -948,24 +948,24 @@ ____
 
 == Wo ist Maria ?!
 
-=== where is Maria ?!
+=== :where is Maria ?!
 
 
 
 == Sie ist bei Deinem Vater...
 
-=== she is with your father
+=== :she is with your father
 
 
 
 == Ich sage Dir, sie ist bie Deinem Vater !
 
-=== I said, she is with your father !
+=== :I said, she is with your father !
 
 
 == Ich will, dass Du zu denen in der Tiefe gehst, um das Werk Deines Vorbildes zu vernichten
 
-=== I want you to go to those in the depth, and destroy the wrk of your role model
+=== :I want you to go to those in the depth, and destroy the wrk of your role model
 
 
 ____
@@ -985,18 +985,128 @@ ____
 die+ Todsünden = mortal sins 
 ihretwillen : becuse of her
 
-=== all seven deadly sins becuse of her
+=== :all seven deadly sins becuse of her
 
 
 
 == Der Tod ist über der Stadt !
 
-=== death is upon the city
+=== :death is upon the city
 
 
 
 == Ende des Zwischenspeils
 
-=== end of middle act
+=== :end of middle act
 
 = **PART 3 I GUESS**
+
+== Ich flüchtete vor dem Schmalen in diese Tracht... Aber site zehn Tagen macht der Spürhund Ihres Vater auch die Arbeiterstadt unsicher...
+
+flüchteten : to escape
+die Tracht = garb, costume
+der Spürhund = hunting dog
+unsicher --adj--> unstable, unsafe 
+
+=== :I escaped in this costume, but your fathers bloodhound has been making the city of workers unsafe for ten days
+
+
+
+== Was allen noch die Arbeiter im Zaume hält, ist, dass sie noch immer auf den Mittler warten, der ihnen verhissen wurde...
+
+im Zaume hält: under control
+der ihnen verhissen wurde: prommissed to them
+
+=== :what keeps the workers under control? is it that they are waiting for the mediator that was prommised to them?
+
+
+
+== Es sind noch mehr der seltsamen Dinge geschehen, freder...
+
+mehr: even more
+das Ding = thing
+seltsamen : strange
+geschehen : happend
+
+=== :even more strange things have happend freder 
+
+
+
+== An jenem Abend, als Sie krank wurden...
+
+=== :on that night you fell ill
+
+
+
+== die einst die besten Freunde waren... um diese Frau...
+=== :those who were once the best of friends, over this woman ...
+
+
+
+== ...der andere am gleichen Abend...
+=== :the other one, on the same evening...
+
+
+
+== ...Die Ewigen Gärten liegen verwaist... doch Nackt um Nacht im Yoshiwara...
+=== :the Eternal Gardens lie deserted... yet night after night in Yoshiwara...
+
+
+
+== Und diese Frau, an deren Füsse sich alle Sünden heften...
+
+Fusse : old german for Fuße
+die+ Fuße = feet
+
+=== :and this whome to whose feet all sins cling
+
+
+
+== heisst auch Maria...
+=== :is called Maria
+
+
+
+== Dieselbe, zu der die in der Tiefe aufsehen wie zu einer Heiligen ?!
+
+die+ Heiligen = saints 
+
+=== :the same one that in depth is seen as one of the saints?!
+
+
+
+== Jetzt gehen viele in die Stadt der Toten, zu einer die sie treu wie Gold befunden haben
+
+=== :now many go to the city of the dead, to whome they have fond as faithful as gold.
+
+
+== Dabei darf der Mittler sohl nicht fehlen...
+
+debei: in this process
+darf : must
+fehlen: to be missing
+
+=== :in this process, the mediator must not be missing
+
+
+
+== Was heute nacht auch geschieht: es ist mein ausdrücklicher Befehl, die Arbeiter gewähren zu lassen...
+
+Was ... auch geschieht: whatever happens
+gewähren zu lassen: leave free to act
+
+=== :whatever happens tonight, my explicit orders are: let the works do as they please
+
+
+
+== Joh Fredersen will, dass die in der Tiefe sich durch Gewalttat ins Unrecht setzen, damit er das Recht zur Gewalt gegen sie bekommt
+
+
+=== :Joh Fredersen wants those in the depth to commit acts of violance in wrong, so he gains the power to use force against them.
+
+____
+a true dictator doesnt need permission
+what a weakling :)
+____
+
+== Wenn Du zu Deinen armen Brüdern spracht, hast Du zum Frieden geredet, Maria... heute hetzt ein Mund auf Befehl Joh Fredersens zum Aufruhr gegen ihn...
