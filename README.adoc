@@ -4,3 +4,6 @@
 * xref:./rammstein_analasysis/albums.adoc[analysis of rammstrin songs]
  
 * xref:./metropolice1927.analysis.adoc[analysis of the metropolice 1927 film]
+
+
+include::./notes.adoc[]
