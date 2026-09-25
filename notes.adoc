@@ -13,24 +13,24 @@
 
 == common verbs
 |===
-|brauchen	+3| to need/want
-|finden		+3| to find
+|brauchen	3+| to need/want
+|finden		3+| to find
 
-.4+|komme	+3| to come
+.4+|komme	3+| to come
 		      | +	| an 				| to arrive
 					| mit 				| to come along
  					| zurück 			| to come back
-|haben 		+3| to have
+|haben 		3+| to have
 
-.2+|fangen	+3| to harvest,fish,collect
+.2+|fangen	3+| to harvest,fish,collect
 			  | + 	| an				|to begin,start
 
-|gehen		+3| to go
-|treffe		+3| to meet
-|besuchen	+3| to attend (on a regular basis)
-|spielen	+3| to play
+|gehen		3+| to go
+|treffe		3+| to meet
+|besuchen	3+| to attend (on a regular basis)
+|spielen	3+| to play
 
-.2+|stehen	+3| to stand
+.2+|stehen	3+| to stand
 			  | + | auf  				|to stand up, to rise up
 |===
 
@@ -159,7 +159,7 @@ die+ Sätze              = plural of der Satz
 
 
 |===
-+2|das Herzeleid
+2+|das Herzeleid
 
 | das Herz	| heart
 | das leid	| pain, hurt, sorrow, woe
