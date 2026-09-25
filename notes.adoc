@@ -18,7 +18,8 @@
 
 .4+|komme		| to come				||
 			 .3+| +	| an 				| to arrive
-					| mit = mitkommen	| to come along
+					| mit 				| to come along
+ 					| zurück 			| to come back
 |haben 		| to have 					||
 
 .2+|fangen	| to harvest,fish,collect	||
