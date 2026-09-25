@@ -1,37 +1,42 @@
-### verbs
-## common verb form
-{
+= verbs
+== common verb form
 
-    ich         | bin   | brauche
-    du          | bist  | brauchst
-    er/sie/es   | ist   | braucht
-    wir         | sind  | brauchen
-    ihr         | seid  | braucht
-    Sie         | sind  | brauchen
-}
+|===
+|ich       	| bin   | brauche
+|du         | bist  | brauchst
+|er/sie/es  | ist   | braucht
+|wir        | sind  | brauchen
+|ihr        | seid  | braucht
+|Sie        | sind  | brauchen
+|===
 
 
-# common verbs
-    brauchen    : to need/want
-    finden      : to find
-    komme       : to come + {
-        an = ankommen           : to arrive
-        mit = mitkommen         : to come along
-        zurück = zurückkommen   : to come back
-    }
-    haben       : to have
-    fangen      : to harvest,fish,collect + {
-        an = anfangen = to begin,start
-    }
-    gehen       : to go
-    treffe      : to meet
-    besuchen    : to attend (on a regular basis)
-    spielen     : to play
-    stehen      : to stand + {
-        auf     : to stand up, to rise up
-    }
+= common verbs
+|===
+|brauchen    | to need/want	| |
+|finden      | to find		| |
 
-# fucked up verbs
+.4+|komme       | to come	| |
+			 .3+| +			| an 					| to arrive
+				 			| mit = mitkommen       | to come along
+				 			| zurück = zurückkommen | to come back
+|===
+
+|===
+|
+|haben       : to have
+|fangen      : to harvest,fish,collect + {
+|    an = anfangen = to begin,start
+|}
+|gehen       : to go
+|treffe      : to meet
+|besuchen    : to attend (on a regular basis)
+|spielen     : to play
+|stehen      : to stand + {
+|    auf     : to stand up, to rise up
+|===
+
+= fucked up verbs
 {   essen       : to eat
 
     ich         | esse
@@ -69,7 +74,7 @@
     Sie         | sehen
 }
 
-## modals
+== modals
 {   können      : can
 
     ich         | kann
@@ -116,8 +121,8 @@
     Sie         | müssen
 }
 
-### just notes
-## phrase
+=== just notes
+== phrase
     Danke and its bros
     {
         Danke sehr!
@@ -127,7 +132,7 @@
     }
 
 
-## common qustions
+== common qustions
     Wie heißt das auf Deutsch?
     what is this in german
 
@@ -138,7 +143,7 @@
     (how late is it)
     what time is it
 
-## wie oft
+== wie oft
     nie : never 0%
     fast nie ~0%
     manchmnal: 50%
@@ -146,7 +151,7 @@
     fast immer ~100%
     immer : always 100%
 
-## time preposition table !
+== time preposition table !
 
 {   word        | meaning       | Example               | Meaning
 
@@ -164,7 +169,7 @@
 }
 
 
-## adjssss
+== adjssss
 Groß ist das Gegenteil von klein : Groß =! klein
 --------------------------------------------------------------------------------
     Groß =! klein
@@ -173,8 +178,8 @@ Groß ist das Gegenteil von klein : Groß =! klein
     schwer =! leicht : hard/heavy != easy/light
 
 
-### dictionary
-## heap of words
+=== dictionary
+== heap of words
 die Brille              = glasses
 der kugelschreiber      = pen
 der Bleistift           = pencil
@@ -194,7 +199,7 @@ die+ Sätze              = plural of der Satz
 
 
 
-## compounds
+== compounds
 der Arbeitsplats = {
     die Arbeit  = work
     der Platz   = place
@@ -211,8 +216,8 @@ das Herzeleid = {
 }
 
 
-## TIME!!!!!!
-# weekdays
+== TIME!!!!!!
+= weekdays
 die+ Wochentage {
     1 der Montag
     2 der Dienstag
@@ -223,7 +228,7 @@ die+ Wochentage {
     7 der Sonntag
 }
 
-# day times
+= day times
 die+ Tageszeiten (die Tageszeit) {
     der Morgan  : early
     der Mittag  : middle
@@ -234,7 +239,7 @@ die+ Tageszeiten (die Tageszeit) {
 das heute: today
 das gestern: oposite of today
 
-# seasons n month
+= seasons n month
 der Frühling    -> der März     , der April     , der Mai
 der Sommer      -> der Juni     , der Juli      , der August
 der Harbst      -> der September, der Oktober   , der November
