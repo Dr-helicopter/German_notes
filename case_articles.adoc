@@ -91,7 +91,7 @@ english meaning : "not a/an"
 
 = WHAT THE FUCK IS A DATIV !!!!!!!!!
 
-now insted of seeing the dog
+now insted of seeing the dog,
 we want to get rid of the stupid dog
 
 == Ich gibe den Hund
@@ -99,23 +99,28 @@ i give 'the dog'
 
 but this rases a question. who did i give the dog to?
 
-if im the dog giver and the dog is the dog, who is the dog reciver here?
+if im the dog giver, and the dog is the dog, who is the dog reciver here?
 
-**so we say:**
+==== so we say
 == Ich give den Hund dem Mann
 i gave the dog to the man 
 
 and just like befor we can do all the permutations of the sentence
 
 **Ich gibe den Hund dem Mann**
+
 **Ich gibe den Hund dem Mann**
+
 **den Hund gibe Ich dem Mann**
+
 **den Hund gibe dem Mann Ich**
+
 **dem Mann gibe Ich den Hund**
+
 **dem Mann gibe den Hund Ich**
 
 === they all mean the same thing
-the dog was transfered from a me to a specific man
+the dog was transfered from me to a specific man
 
 
 we can also have more dative nouns here:
@@ -127,9 +132,13 @@ in dem park is also the place that the dog giving took place and is dative here
 the dative can also be created by certain prepositions:
 
 mit  → Dativ
+
 bei  → Dativ
+
 von  → Dativ
+
 aus  → Dativ
+
 zu   → Dativ
 
 
