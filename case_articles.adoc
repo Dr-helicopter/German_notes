@@ -1,0 +1,227 @@
+
+= Nominativ vs Akkusativ
+
+== der Mann sieht den Hund.
+the man sees the dog.
+
+
+here the man is the one who sees, the man is the 'doer' and the Dog is being  
+seen
+
+== den Hund sieht der Mann.
+the man sees the dog.
+
+here also the man is the one who sees, the man is the 'doer' and the
+Dog is being seen.
+
+
+== WTF?
+the roles are not necessarily determined by the position of the words 
+like in English the Nominative is the one who does the verb and 
+the Akkusative (the one accused of the verb), is what the verb is being acted on. 
+
+
+the difference of :
+
+"den Hund sieht der man."
+and 
+"der Mann sieht den Hund."
+is what the phrasing emphasis is.
+like saying:
+"THE MAN!! sees the Dog."
+or 
+"the man sees THE DOG!!."
+
+
+== the boring list of tables
+
+=== definite
+
+|===
+| Gender    | Nominativ (doer)  | Akkusativ (target)
+
+| Masculine | der Mann          | den Mann
+| Feminine  | die Frau          | die Frau
+| Neuter    | das Kind          | das Kind
+| Plural    | die+  Kinder      | die+ Kinder
+|===
+
+english meaning : "the"
+
+
+=== indefinte:
+|===
+| Gender    | Nominativ     | Akkusativ
+
+| Masculine | ein Mann      | einen Mann
+| Feminine  | eine Frau     | eine Frau 
+| Neuter    | ein Kind      | ein Kind  
+| Plural    | X             | X  
+|===
+
+english meaning : "a/an"
+
+=== negative
+|===
+| Gender    | Nominativ    	| Akkusativ   
+
+| Masculine | kein Mann    	| keinen Mann 
+| Feminine  | keine Frau   	| keine Frau  
+| Neuter    | kein Kind    	| kein Kind   
+| Plural    | keine Kinder	| keine Kinder
+|===
+
+english meaning : "not a/an"
+
+
+=== pronouns:
+|===
+| Nominativ | Akkusativ
+
+| ich       | mich
+| du        | dich
+| er        | ihn 
+| sie       | sie 
+| es        | es  
+| wir       | uns 
+| ihr       | euch
+| sie       | sie 
+| Sie       | Sie 
+|===
+
+= WHAT THE FUCK IS A DATIV !!!!!!!!!
+
+now insted of seeing the dog
+we want to get rid of the stupid dog
+
+== Ich gibe den Hund
+i give 'the dog'
+
+but this rases a question. who did i give the dog to?
+
+if im the dog giver and the dog is the dog, who is the dog reciver here?
+
+**so we say:**
+== Ich give den Hund dem Mann
+i gave the dog to the man 
+
+and just like befor we can do all the permutations of the sentence
+
+**Ich gibe den Hund dem Mann**
+**Ich gibe den Hund dem Mann**
+**den Hund gibe Ich dem Mann**
+**den Hund gibe dem Mann Ich**
+**dem Mann gibe Ich den Hund**
+**dem Mann gibe den Hund Ich**
+
+=== they all mean the same thing
+the dog was transfered from a me to a specific man
+
+
+we can also have more dative nouns here:
+
+== Ich gibe den Hund dem Mann in dem Park
+
+in dem park is also the place that the dog giving took place and is dative here
+
+the dative can also be created by certain prepositions:
+
+mit  → Dativ
+bei  → Dativ
+von  → Dativ
+aus  → Dativ
+zu   → Dativ
+
+
+so:
+
+== Ich bin mit dem Mann.
+I am with the man.
+
+== Ich komme aus dem Haus.
+I come from the house.
+
+=== some prepositions can use either Akkusativ or Dativ:
+
+* auf
+* in
+* an
+* über
+* unter
+* vor
+* hinter
+* neben
+* zwischen
+
+
+
+
+=== definite
+|===
+| Gender    | Nominativ 	| Dativ
+
+| Masculine | der Mann  	| dem Mann
+| Feminine  | die Frau  	| der Frau
+| Neuter    | das Kind  	| dem Kind
+| Plural    | die+ Kinder 	| den+ Kindern
+|===
+
+english meaning : "the"
+
+
+=== indefinite
+
+|===
+| Gender    | Nominativ | Dativ
+
+| Masculine | ein Mann  | einem Mann
+| Feminine  | eine Frau | einer Frau
+| Neuter    | ein Kind  | einem Kind
+| Plural    | X         | X
+|===
+
+english meaning : "a/an"
+
+
+=== negative
+
+|===
+| Gender    | Nominativ | Dativ
+
+| Masculine | kein Mann   	| keinem Mann
+| Feminine  | keine Frau  	| keiner Frau
+| Neuter    | kein Kind   	| keinem Kind
+| Plural    | keine Kinder	| keinen+ Kindern
+|===
+
+english meaning : "not a/an"
+
+=== pronouns
+
+|===
+| Nominativ	| Dativ
+
+| ich       | mir
+| du        | dir
+| er        | ihm
+| sie       | ihr
+| es        | ihm
+| wir       | uns
+| ihr       | euch
+| sie       | ihnen
+| Sie       | Ihnen
+|===
+
+with these, the meaning determines the case.
+
+== Ich gehe in den Park.
+I go into the park.
+
+== Ich bin in dem Park.
+I am in the park.
+
+in den Park → Akkusativ
+in dem Park → Dativ
+
+movement/direction → Akkusativ
+location → Dativ

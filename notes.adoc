@@ -107,17 +107,31 @@
 | in          	| in / from now | in zwei Tagen         | in two days
 |===
 
+im : in dem
+
 == adjssss
 
-Groß ist das Gegenteil von klein : Groß =! klein
+Groß ist das Gegenteil von klein : Groß ≠ klein
 
-	Groß =! klein
+	Groß ≠ klein
 
-	schön =! hässlich
+	schön ≠ hässlich
 
-	teuer =! billig
+	teuer ≠ billig
 
-	schwer =! leicht : hard/heavy != easy/light
+	schwer ≠ leicht : hard/heavy ≠ easy/light
+
+	interesstant ≠ lang weiling 
+
+	ruhig ≠ laut 
+
+	neu ≠ alt
+	
+	fern = weit ≠ nah
+	(fern has a more abstaract and poetic weight to it, like its far in terms of 
+	time and concept too, while weit convays a pysical long distance)
+
+	zwischen : between
 
 
 = dictionary
@@ -132,13 +146,49 @@ die Tasche              = purse
 der Drucker             = printer
 die+ Drucker            = printers
 die+ bälle              = balls
-das Kino                = cinema
-die Ausstellung         = gallery
-die kneipe              = bar
 die Zeit                = time
 das Klaveir             = piano
 der Satz                = sentance, statement
 die+ Sätze              = plural of der Satz
+die Stadt ≠ das Dorf
+
+=== places
+[%hardbreaks%]
+die Ausstellung         = exhibition,gallery
+die kneipe              = bar
+die Schule
+der Kindergarten
+das Krankenhaus
+die Kirche
+das Café
+das Restaurant
+das Haus
+die Bank
+der Bahnhof				= station
+die S-Bahn = train
+die U-Bahn = train (under ground and in urban city)
+das Geschäft 			= shop
+das Büro 				= office
+die Wohnung 			= appartment
+das Kino                = cinema
+
+==== plurals of the same places
+die+ Banhöfe
+die+ Geschäfte
+die+ Banken
+die+ S-Bahnen
+die+ U-Bahnen
+die+ Büros
+die+ Wohnungen
+die+ Häuser
+die+ Schulen
+die+ Kindergärten
+die+ Kirchen
+die+ Krankenhäuser
+die+ Cafés
+die+ Resturants
+die+ Kinos
+
 
 
 
