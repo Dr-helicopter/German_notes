@@ -17,7 +17,7 @@
 |finden		3+| to find
 
 .4+|komme	3+| to come
-		      | +	| an 				| to arrive
+		   .3+| +	| an 				| to arrive
 					| mit 				| to come along
  					| zurück 			| to come back
 |haben 		3+| to have
