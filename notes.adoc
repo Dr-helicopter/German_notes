@@ -13,25 +13,25 @@
 
 = common verbs
 |===
-|brauchen    | to need/want				||
-|finden      | to find					||
+|brauchen	| to need/want				||
+|finden		| to find					||
 
-.4+|komme		| to come				||
-			 .3+| +	| an 				| to arrive
-					| mit 				| to come along
- 					| zurück 			| to come back
+.4+|komme	| to come					||
+		 .3+| +	| an 					| to arrive
+				| mit 					| to come along
+ 				| zurück 				| to come back
 |haben 		| to have 					||
 
 .2+|fangen	| to harvest,fish,collect	||
-|			| + |  an					|to begin,start
+			| + | an					|to begin,start
 
 |gehen		| to go						||
 |treffe		| to meet					||
 |besuchen	| to attend (on a regular basis)	||
 |spielen	| to play					||
 
-.2+|stehen		| to stand					||
-|			| + | auf  					|to stand up, to rise up
+.2+|stehen	| to stand					||
+			| + | auf  					|to stand up, to rise up
 |===
 
 = fucked up verbs
