@@ -11,7 +11,7 @@
 |===
 
 
-= common verbs
+== common verbs
 |===
 |brauchen	| to need/want				||
 |finden		| to find					||
@@ -34,150 +34,94 @@
 			| + | auf  					|to stand up, to rise up
 |===
 
-= fucked up verbs
-{   essen       : to eat
+== fucked up verbs
+|===
+2+|					|ich	|du		|er/sie/es	|wir	|ihr	|Sie         
 
-    ich         | esse
-    du          | isst
-    er/sie/es   | isst
-    wir         | essen
-    ihr         | esst
-    Sie         | essen
-}
-{   wissen      : to know
-
-    ich         | weiß
-    du          | weißt
-    er/sie/es   | weiß
-    wir         | wiessen
-    ihr         | wisst
-    Sie         | wissen
-}
-{   nehmen      : to take
-
-    ich         | nehme
-    du          | nimmst
-    er/sie/es   | nimmt
-    wir         | nehmen
-    ihr         | nehmt
-    Sie         | nehmen
-}
-{   sehen       : to see
-
-    ich         | sehe
-    du          | siehst
-    er/sie/es   | sieht
-    wir         | sehen
-    ihr         | seht
-    Sie         | sehen
-}
+|essen	| to eat	| esse 	| isst 	| isst 		| essen | esst 	| essen
+|wissen	| to know 	| weiß 	| weißt | weiß 		|wiessen| wisst	| wissen
+|nehmen | to take 	| nehme | nimmst| nimmt 	| nehmen| nehmt | nehmen
+|sehen	| to see 	| sehe 	| siehst| sieht 	| sehen | seht 	| sehen
+|===
 
 == modals
-{   können      : can
+|===
+2+|					| ich	|du			|er/sie/es	|wir	| ihr	|Sie         
 
-    ich         | kann
-    du          | kannst
-    er/sie/es   | kann
-    wir         | können
-    ihr         | könnt
-    Sie         | können
-}
-{   mögen       : like to
+|können	| can 		| kann	| kannst	| kann		| können| könnt	| können
+|mögen 	| like to	| mag 	| magst		| mag 		| mögen | mögt 	| mögen
+|wollt 	| want 		| will 	| willst	| will 		| wollen| wollt | wollen
+|dürfen	| to allow	| darf 	| darfst	| darf 		| dürfen| dürft | dürfen
+|muss  	| must 		| muss 	| musst 	| muss 		| müssen| müsst | müssen
+|===
 
-    ich         | mag
-    du          | magst
-    er/sie/es   | mag
-    wir         | mögen
-    ihr         | mögt
-    Sie         | mögen
-}
-{   wollt       : want
+= just notes
+== phrase 
 
-    ich         | will
-    du          | willst
-    er/sie/es   | will
-    wir         | wollen
-    ihr         | wollt
-    Sie         | wollen
-}
-{   dürfen      : to allow
+=== Danke and its bros
 
-    ich         | darf
-    du          | darfst
-    er/sie/es   | darf
-    wir         | dürfen
-    ihr         | dürft
-    Sie         | dürfen
-}
-{   muss        : must
+* Danke sehr!
+* Oh danke!
+* Herzichen Dnak!
+* Vielen Dank!
 
-    ich         | muss
-    du          | musst
-    er/sie/es   | muss
-    wir         | müssen
-    ihr         | müsst
-    Sie         | müssen
-}
-
-=== just notes
-== phrase
-    Danke and its bros
-    {
-        Danke sehr!
-        Oh danke!
-        Herzichen Dnak!
-        Vielen Dank!
-    }
 
 
 == common qustions
+
     Wie heißt das auf Deutsch?
+
     what is this in german
 
 
     Wie viel Uhr ist es?
     (what is the hour)
+
     Wie spät ist es?
     (how late is it)
+
     what time is it
 
 == wie oft
-    nie : never 0%
-    fast nie ~0%
-    manchmnal: 50%
-    oft : 75%
-    fast immer ~100%
-    immer : always 100%
+
+* nie : never 0%
+* fast nie ~0%
+* manchmnal: 50%
+* oft : 75%
+* fast immer ~100%
+* immer : always 100%
 
 == time preposition table !
 
-{   word        | meaning       | Example               | Meaning
+|===
+| word			| meaning		| Example				| Meaning
 
-    am          | on            | am Montag             | on Monday
-    im          | in            | im Sommer             | in summer
-    um          | at            | um 8 Uhr              | at 8 o'clock
-    vor         | before / ago  | vor dem Essen         | before the meal
-    nach        | after         | nach dem Essen        | after the meal
-    seit        | since / for   | seit Montag           | since Monday
-    ab          | starting at   | ab Montag             | from Monday onward
-    bis         | until / by    | bis Montag            | until Monday
-    von ... bis | from ... to   | von Montag bis Freitag| Monday to Friday
-    für         | for (duration)| für zwei Tage         | for two days
-    in          | in / from now | in zwei Tagen         | in two days
-}
-
+| am          	| on            | am Montag             | on Monday
+| im          	| in            | im Sommer             | in summer
+| um          	| at            | um 8 Uhr              | at 8 o'clock
+| vor         	| before / ago  | vor dem Essen         | before the meal
+| nach        	| after         | nach dem Essen        | after the meal
+| seit        	| since / for   | seit Montag           | since Monday
+| ab          	| starting at   | ab Montag             | from Monday onward
+| bis         	| until / by    | bis Montag            | until Monday
+| von ... bis 	| from ... to   | von Montag bis Freitag| Monday to Friday
+| für         	| for (duration)| für zwei Tage         | for two days
+| in          	| in / from now | in zwei Tagen         | in two days
+|===
 
 == adjssss
+
 Groß ist das Gegenteil von klein : Groß =! klein
---------------------------------------------------------------------------------
-    Groß =! klein
-    schön =! hässlich
-    teuer =! billig
-    schwer =! leicht : hard/heavy != easy/light
+
+* Groß =! klein
+* schön =! hässlich
+* teuer =! billig
+* schwer =! leicht : hard/heavy != easy/light
 
 
-=== dictionary
+= dictionary
 == heap of words
+[hardbreaks]
 die Brille              = glasses
 der kugelschreiber      = pen
 der Bleistift           = pencil
