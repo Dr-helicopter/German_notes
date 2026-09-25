@@ -221,16 +221,3 @@ english meaning : "not a/an"
 | Sie       | Ihnen
 |===
 
-with these, the meaning determines the case.
-
-== Ich gehe in den Park.
-I go into the park.
-
-== Ich bin in dem Park.
-I am in the park.
-
-in den Park → Akkusativ
-in dem Park → Dativ
-
-movement/direction → Akkusativ
-location → Dativ
