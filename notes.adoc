@@ -156,10 +156,10 @@ die+ Sätze              = plural of der Satz
 | Schwimm	| swimming
 | das Bad	| bath
 |===
-}
+
 
 |===
-+2| das Herzeleid
++2|das Herzeleid
 
 | das Herz	| heart
 | das leid	| pain, hurt, sorrow, woe
