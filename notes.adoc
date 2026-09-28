@@ -32,6 +32,9 @@
 
 .2+|stehen	3+| to stand
 			  | + | auf  				|to stand up, to rise up
+
+.2+|laden	3+| to load
+			  | + | ein					| to invite
 |===
 
 == fucked up verbs
@@ -42,6 +45,10 @@
 |wissen	| to know 	| weiß 	| weißt | weiß 		|wiessen| wisst	| wissen
 |nehmen | to take 	| nehme | nimmst| nimmt 	| nehmen| nehmt | nehmen
 |sehen	| to see 	| sehe 	| siehst| sieht 	| sehen | seht 	| sehen
+
+.2+|räumen 	| to clear, to empty 
+					|räume 	|räumst |räumt 		|räumen |räumt 	|räumen
+		  	| + 	| auf 5+| to clean up, to tidy up
 |===
 
 == modals
