@@ -1,4 +1,4 @@
-ss:hardbreaks:ss
+:hardbreaks:
 
 die regie = direction
 
