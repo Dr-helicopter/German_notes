@@ -1,4 +1,4 @@
-ss:hardbreaks:
+ss:hardbreaks:ss
 die regie = direction
 
 = sinnspruch: MITTLER ZWISCHEN HIRN UND HÄNDEN MUSS DAS HERZ SEIN !!!!!!!!!!

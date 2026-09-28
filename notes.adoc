@@ -2,9 +2,9 @@
 == common verb form
 
 |===
-|ich       	| bin   | brauche
-|du         | bist  | brauchst
-|er/sie/es  | ist   | braucht
+|ich		| bin   | brauche
+|du			| bist  | brauchst
+|er/sie/es	| ist   | braucht
 |wir        | sind  | brauchen
 |ihr        | seid  | braucht
 |Sie        | sind  | brauchen
