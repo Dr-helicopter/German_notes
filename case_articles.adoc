@@ -43,7 +43,7 @@ or
 | Masculine | der Mann          | den Mann
 | Feminine  | die Frau          | die Frau
 | Neuter    | das Kind          | das Kind
-| Plural    | die+  Kinder      | die+ Kinder
+| Plural    | die+  Kinder      | die+ Kinder 
 |===
 
 english meaning : "the"
