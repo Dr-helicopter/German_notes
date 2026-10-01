@@ -1347,6 +1347,7 @@ it translates literaly to :
 *why is light burning nowhere*
 
 but a better translation is:
+
 === :why is there no light anywhere?
 
 
