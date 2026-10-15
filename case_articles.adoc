@@ -186,7 +186,7 @@ english meaning : "the"
 | Masculine | ein Mann  | einem Mann
 | Feminine  | eine Frau | einer Frau
 | Neuter    | ein Kind  | einem Kind
-| Plural    | X         | X
+| Plural    | X         | X			
 |===
 
 english meaning : "a/an"

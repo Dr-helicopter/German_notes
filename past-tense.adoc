@@ -1,0 +1,57 @@
+lets talk verbs for a sec
+
+these are verbs:
+
+|===
+|gehen		| to go
+|lehrnen 	| to learn
+|studieren	| to study
+|===
+
+
+we use them like verbs:
+
+= Ich gehe in den park
+== i go to the park
+
+
+but what if I dont go to the park?
+
+what if I went to the park yesterday and I'm not going there any time soon?
+
+== Ich bin in den park gegangen
+=== means:
+== I went to the park
+
+= HOW DID THIS HAPPEN?
+== first we need to discuss mutations
+
+
+other then an infinitive and 6 forms of congugation...
+
+each verb also has 2 *Partizip* form, 
+which are like mutations of the normal verb form
+
+[cols=5]
+|===
+| Infinitiv 
+| Partizip I 	| Construction 
+| Partizip II	| Construction
+
+| **gehen** 
+| gehend 	| geh + end    
+| gegangen 	| irregular                       
+
+| **lernen** 
+| lernend	| lern + end
+| gelernt	| ge + lern + t
+
+| **studieren** 
+| studierend| studier + end 
+| studiert 	| studier + t (`-ieren` → no `ge-`)
+
+|===
+
+
+these extra forms all have different gramatical uses but
+today we only care about one

@@ -116,29 +116,49 @@
 
 im : in dem
 
-== adjssss
+.adjectives
+=====
 
-Groß ist das Gegenteil von klein : Groß ≠ klein
+== Groß ist das Gegenteil von klein : Groß ≠ klein
 
-	Groß ≠ klein
+Groß ≠ klein
 
-	schön ≠ hässlich
+schön ≠ hässlich
 
-	teuer ≠ billig
+teuer ≠ billig
 
-	schwer ≠ leicht : hard/heavy ≠ easy/light
+schwer ≠ leicht : hard/heavy ≠ easy/light
 
-	interesstant ≠ lang weiling 
+interesstant ≠ lang weiling 
 
-	ruhig ≠ laut 
+ruhig ≠ laut 
 
-	neu ≠ alt
-	
-	fern = weit ≠ nah
-	(fern has a more abstaract and poetic weight to it, like its far in terms of 
-	time and concept too, while weit convays a pysical long distance)
+neu ≠ alt
 
-	zwischen : between
+fern = weit ≠ nah
+(fern has a more abstaract and poetic weight to it, like its far in terms of 
+time and concept too, while weit convays a pysical long distance)
+
+zwischen : between
+
+toll = super
+
+oben : upstairs ≠ unten
+
+schnell = fast ≠ langsam
+
+bequem = convenient
+
+=== temperture related adjs
+kühl : cool
+
+kalt : cold ≠ heiß : hot
+
+bewölkt : cloudy 
+
+
+
+=====
 
 
 = dictionary
@@ -158,6 +178,8 @@ das Klaveir             = piano
 der Satz                = sentance, statement
 die+ Sätze              = plural of der Satz
 die Stadt ≠ das Dorf
+das Abitur 				= Diploma
+das Geheimnis			= secret
 
 === places
 [%hardbreaks%]
@@ -197,6 +219,12 @@ die+ Resturants
 die+ Kinos
 
 
+== directions
+|===
+|		| geradeaus |
+|links	|			| rechts
+|		|			|
+|===
 
 
 == compounds
@@ -247,11 +275,27 @@ die+ Kinos
 | die Nacht   	| night
 |===
 
-das heute = today
 
-das gestern = oposite of today
+[title="tomorrow and yesterday"]
+|===
+| Dienstag 	| mittwoche | Donnestag
+| gestern	| heute		| morgen
+|===
+____
+morgen ≠ der Morgen
+____
 
-=== seasons n month
+das Geburtstag = birth day
+das Geburtsdatum = birth date
+der Geburtsort = birth place
+____
+sounds like the shortend version of the literal phrase:
+"the day one was previously born"
+"the date one was previously born"
+"the place one was previously born"
+____
+
+=== seasons n months
 [cols="h,1,1,1"]
 |===
 |der Frühling	| der März 		| der April   	| der Mai
