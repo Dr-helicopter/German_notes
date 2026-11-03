@@ -1,6 +1,7 @@
-= verbs
-== common verb form
+= Notes
 
+= verbs
+.common verb form
 |===
 |ich		| bin   | brauche
 |du			| bist  | brauchst
@@ -11,7 +12,7 @@
 |===
 
 
-== common verbs
+.common verbs
 |===
 |brauchen	3+| to need/want
 |finden		3+| to find
@@ -35,9 +36,14 @@
 
 .2+|laden	3+| to load
 			  | + | ein					| to invite
+
+.2+|rufen	3+|
+			  | + | an					| to call
+
+
 |===
 
-== fucked up verbs
+.fucked up verbs
 |===
 2+|					|ich	|du		|er/sie/es	|wir	|ihr	|Sie         
 
@@ -51,7 +57,7 @@
 		  	| + 	| auf 5+| to clean up, to tidy up
 |===
 
-== modals
+.modals
 |===
 2+|					| ich	|du			|er/sie/es	|wir	| ihr	|Sie         
 
@@ -72,20 +78,17 @@
 * Herzichen Dnak!
 * Vielen Dank!
 
-
-
 == common qustions
 
-    Wie heißt das auf Deutsch?
-    what is this in german
+* Wie heißt das auf Deutsch?
+** what is this in german
 
+* Wie viel Uhr ist es?
+** (what is the hour)
 
-    Wie viel Uhr ist es?
-    (what is the hour)
-
-    Wie spät ist es?
-    (how late is it)
-    what time is it
+* Wie spät ist es?
+ (how late is it)
+** what time is it
 
 == wie oft
 
@@ -128,6 +131,8 @@ schön ≠ hässlich
 teuer ≠ billig
 
 schwer ≠ leicht : hard/heavy ≠ easy/light
+
+schwer ≠ einfach
 
 interesstant ≠ lang weiling 
 
