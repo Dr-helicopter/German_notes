@@ -35,8 +35,7 @@ or
 
 == the boring list of tables
 
-=== definite
-
+.definite
 |===
 | Gender    | Nominativ (doer)  | Akkusativ (target)
 
@@ -49,7 +48,7 @@ or
 english meaning : "the"
 
 
-=== indefinte:
+.indefinte:
 |===
 | Gender    | Nominativ     | Akkusativ
 
@@ -61,7 +60,7 @@ english meaning : "the"
 
 english meaning : "a/an"
 
-=== negative
+.negative
 |===
 | Gender    | Nominativ    	| Akkusativ   
 
@@ -74,7 +73,7 @@ english meaning : "a/an"
 english meaning : "not a/an"
 
 
-=== pronouns:
+.pronouns:
 |===
 | Nominativ | Akkusativ
 
@@ -150,8 +149,7 @@ I am with the man.
 == Ich komme aus dem Haus.
 I come from the house.
 
-=== some prepositions can use either Akkusativ or Dativ:
-
+.some prepositions can use either Akkusativ or Dativ:
 * auf
 * in
 * an
@@ -164,22 +162,20 @@ I come from the house.
 
 
 
-== MORE BORING TABELS !!!!!
-
+.MORE BORING TABELS !!!!!
 |===
 | Gender    | Nominativ 	| Dativ
 
 | Masculine | der Mann  	| dem Mann
 | Feminine  | die Frau  	| der Frau
 | Neuter    | das Kind  	| dem Kind
-| Plural    | die+ Kinder 	| den+ Kindern
+| Plural    | die+ Kinder 	| den Kindern
 |===
 
 english meaning : "the"
 
 
-=== indefinite
-
+.indefinite
 |===
 | Gender    | Nominativ | Dativ
 
@@ -192,8 +188,7 @@ english meaning : "the"
 english meaning : "a/an"
 
 
-=== negative
-
+.negative
 |===
 | Gender    | Nominativ | Dativ
 
@@ -205,8 +200,7 @@ english meaning : "a/an"
 
 english meaning : "not a/an"
 
-=== pronouns
-
+.pronouns
 |===
 | Nominativ	| Dativ
 

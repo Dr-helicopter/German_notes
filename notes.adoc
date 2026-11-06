@@ -65,7 +65,8 @@
 |mögen 	| like to	| mag 	| magst		| mag 		| mögen | mögt 	| mögen
 |wollt 	| want 		| will 	| willst	| will 		| wollen| wollt | wollen
 |dürfen	| to allow	| darf 	| darfst	| darf 		| dürfen| dürft | dürfen
-|muss  	| must 		| muss 	| musst 	| muss 		| müssen| müsst | müssen
+|muss  	|must(hard)	| muss 	| musst 	| muss 		| müssen| müsst | müssen
+|soll	|must(soft)	|soll 	| sollst	| soll		| sollen| sollt	| sollen
 |===
 
 = just notes
@@ -99,8 +100,7 @@
 * fast immer ~100%
 * immer : always 100%
 
-== time preposition table !
-
+.time preposition table !
 |===
 | word			| meaning		| Example				| Meaning
 
@@ -118,6 +118,21 @@
 |===
 
 im : in dem
+
+.Locale präpositionen
+|===
+|auf	| on, top
+|an		| next to(close) 
+|neben	| next to(far)
+|vor	| before(in front of)
+|zwischen | between
+|hinter	| behind
+|über	| above
+|unter	| under
+|in		| inside
+|===
+
+these prepositions turn the word after then Dative
 
 .adjectives
 =====
@@ -153,6 +168,8 @@ oben : upstairs ≠ unten
 schnell = fast ≠ langsam
 
 bequem = convenient
+
+nett = kind
 
 === temperture related adjs
 kühl : cool
@@ -205,6 +222,7 @@ das Geschäft 			= shop
 das Büro 				= office
 die Wohnung 			= appartment
 das Kino                = cinema
+der trum				= tower
 
 ==== plurals of the same places
 die+ Banhöfe
@@ -224,7 +242,7 @@ die+ Resturants
 die+ Kinos
 
 
-== directions
+.directions
 |===
 |		| geradeaus |
 |links	|			| rechts
@@ -232,7 +250,7 @@ die+ Kinos
 |===
 
 
-== compounds
+.compounds
 |===
 2+|der Arbeitsplats
 
@@ -270,7 +288,7 @@ die+ Kinos
 7 der Sonntag
 
 
-=== day times
+.day times
 |===
 2+|die+ Tageszeiten (die Tageszeit) 
 
@@ -281,7 +299,7 @@ die+ Kinos
 |===
 
 
-[title="tomorrow and yesterday"]
+.tomorrow and yesterday
 |===
 | Dienstag 	| mittwoche | Donnestag
 | gestern	| heute		| morgen
@@ -300,7 +318,7 @@ sounds like the shortend version of the literal phrase:
 "the place one was previously born"
 ____
 
-=== seasons n months
+.seasons n months
 [cols="h,1,1,1"]
 |===
 |der Frühling	| der März 		| der April   	| der Mai
