@@ -241,6 +241,18 @@ die+ Cafés
 die+ Resturants
 die+ Kinos
 
+=== a bunch of related words in tables
+|===
+| die+ strände 	| beaches
+| das Meer 		| sea
+| schimmen		| swimming
+| surfen		| surfing
+| segeln		| sailing
+|===
+
+
+
+
 
 .directions
 |===
