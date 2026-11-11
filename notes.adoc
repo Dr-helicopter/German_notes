@@ -200,7 +200,7 @@ das Klaveir             = piano
 der Satz                = sentance, statement
 die+ Sätze              = plural of der Satz
 die Stadt ≠ das Dorf
-das Abitur 				= Diploma
+das Abitur              = Diploma
 das Geheimnis			= secret
 
 === places
