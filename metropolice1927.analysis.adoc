@@ -27,6 +27,11 @@ ahem...
 ____
 
 === :**THE MEDIATOR BETWEEN THE BRAIN AND THE HANDS MUST BE THE HEART !!!!!!!**
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
 
 ____
 echo ...
@@ -1347,7 +1352,10 @@ it translates literaly to :
 *why is light burning nowhere*
 
 but a better translation is:
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 === :why is there no light anywhere?
 
 
